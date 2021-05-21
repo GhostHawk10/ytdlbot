@@ -1,0 +1,1648 @@
+INFO 2021-05-11 13:36:38,233 - Initialize bot.
+INFO 2021-05-11 13:36:38,233 - Load config.
+INFO 2021-05-11 13:36:38,233 - Load user.
+INFO 2021-05-11 13:36:38,234 - Set command aliases.
+INFO 2021-05-11 13:36:38,234 - Connect to IRC network.
+INFO 2021-05-11 13:36:56,976 - Format raw IRC message into parsed message.
+INFO 2021-05-11 13:36:56,977 - Attempt execute command: ping
+INFO 2021-05-11 13:36:56,977 - Format raw IRC message into parsed message.
+INFO 2021-05-11 13:36:56,978 - Attempt execute command: ping
+INFO 2021-05-11 13:37:06,063 - Format raw IRC message into parsed message.
+INFO 2021-05-11 13:37:06,075 - Attempt execute command: help
+INFO 2021-05-11 13:37:06,075 - Format raw IRC message into parsed message.
+INFO 2021-05-11 13:37:06,075 - Attempt execute command: help
+INFO 2021-05-11 13:37:16,504 - Format raw IRC message into parsed message.
+INFO 2021-05-11 13:37:16,802 - Attempt execute command: ytdl
+INFO 2021-05-11 13:37:18,269 - Format raw IRC message into parsed message.
+INFO 2021-05-11 13:37:18,269 - Attempt execute command: ytdl
+INFO 2021-05-11 13:38:14,265 - Format raw IRC message into parsed message.
+DEBUG 2021-05-11 13:38:15,158 - Starting new HTTPS connection (1): feedforall.com:443
+DEBUG 2021-05-11 13:38:15,490 - https://feedforall.com:443 "GET /sample.xml HTTP/1.1" 200 8631
+INFO 2021-05-11 13:38:15,512 - Attempt execute command: rss
+INFO 2021-05-11 13:38:15,512 - Format raw IRC message into parsed message.
+INFO 2021-05-11 13:38:15,513 - Attempt execute command: rss
+INFO 2021-05-11 13:40:01,113 - Format raw IRC message into parsed message.
+INFO 2021-05-11 13:40:01,113 - Attempt execute command: ytdl
+INFO 2021-05-11 13:40:02,117 - Format raw IRC message into parsed message.
+INFO 2021-05-11 13:40:02,117 - Attempt execute command: ytdl
+INFO 2021-05-11 13:40:22,447 - Format raw IRC message into parsed message.
+INFO 2021-05-11 13:40:22,460 - Attempt execute command: ytdl
+INFO 2021-05-11 13:40:23,204 - Format raw IRC message into parsed message.
+INFO 2021-05-11 13:40:23,204 - Attempt execute command: ytdl
+INFO 2021-05-11 13:41:17,176 - Initialize bot.
+INFO 2021-05-11 13:41:17,177 - Load config.
+INFO 2021-05-11 13:41:17,177 - Load user.
+INFO 2021-05-11 13:41:17,177 - Set command aliases.
+INFO 2021-05-11 13:41:17,177 - Connect to IRC network.
+INFO 2021-05-11 13:41:34,107 - Format raw IRC message into parsed message.
+INFO 2021-05-11 13:41:34,108 - Attempt execute command: ping
+INFO 2021-05-11 13:41:34,108 - Format raw IRC message into parsed message.
+INFO 2021-05-11 13:41:34,108 - Attempt execute command: ping
+INFO 2021-05-11 13:41:44,431 - Format raw IRC message into parsed message.
+INFO 2021-05-11 13:41:44,443 - Attempt execute command: help
+INFO 2021-05-11 13:41:44,443 - Format raw IRC message into parsed message.
+INFO 2021-05-11 13:41:44,443 - Attempt execute command: help
+INFO 2021-05-11 13:41:52,921 - Format raw IRC message into parsed message.
+INFO 2021-05-11 13:41:53,215 - Attempt execute command: chan
+INFO 2021-05-11 13:41:54,604 - Format raw IRC message into parsed message.
+INFO 2021-05-11 13:41:54,606 - Attempt execute command: chan
+INFO 2021-05-11 13:42:02,861 - Format raw IRC message into parsed message.
+DEBUG 2021-05-11 13:42:03,037 - Starting new HTTPS connection (1): feedforall.com:443
+DEBUG 2021-05-11 13:42:03,349 - https://feedforall.com:443 "GET /sample.xml HTTP/1.1" 200 8631
+INFO 2021-05-11 13:42:03,360 - Attempt execute command: rss
+INFO 2021-05-11 13:42:03,360 - Format raw IRC message into parsed message.
+INFO 2021-05-11 13:42:03,360 - Attempt execute command: rss
+INFO 2021-05-11 13:42:11,461 - Format raw IRC message into parsed message.
+INFO 2021-05-11 13:42:11,462 - Attempt execute command: info
+INFO 2021-05-11 13:42:12,412 - Format raw IRC message into parsed message.
+INFO 2021-05-11 13:42:12,412 - Attempt execute command: info
+INFO 2021-05-11 13:42:52,082 - Format raw IRC message into parsed message.
+INFO 2021-05-11 13:42:52,082 - Attempt execute command: info
+INFO 2021-05-11 13:42:53,265 - Format raw IRC message into parsed message.
+INFO 2021-05-11 13:42:53,265 - Attempt execute command: info
+INFO 2021-05-11 13:43:19,281 - Format raw IRC message into parsed message.
+INFO 2021-05-11 13:43:19,282 - Attempt execute command: info
+INFO 2021-05-11 13:43:20,231 - Format raw IRC message into parsed message.
+INFO 2021-05-11 13:43:20,231 - Attempt execute command: info
+INFO 2021-05-11 13:43:48,265 - Format raw IRC message into parsed message.
+INFO 2021-05-11 13:44:01,060 - Format raw IRC message into parsed message.
+INFO 2021-05-11 13:44:10,216 - Format raw IRC message into parsed message.
+INFO 2021-05-11 13:44:23,363 - Format raw IRC message into parsed message.
+INFO 2021-05-11 13:44:23,739 - Attempt execute command: atom
+INFO 2021-05-11 13:44:23,739 - Format raw IRC message into parsed message.
+INFO 2021-05-11 13:44:23,739 - Attempt execute command: atom
+INFO 2021-05-11 13:44:32,022 - Format raw IRC message into parsed message.
+INFO 2021-05-14 12:14:29,351 - Initialize bot.
+INFO 2021-05-14 12:14:29,363 - Load config.
+INFO 2021-05-14 12:14:29,370 - Load user.
+INFO 2021-05-14 12:14:29,370 - Set command aliases.
+INFO 2021-05-14 12:14:29,370 - Connect to IRC network.
+INFO 2021-05-14 12:14:52,879 - Format raw IRC message into parsed message.
+INFO 2021-05-14 12:16:58,002 - Initialize bot.
+INFO 2021-05-14 12:16:58,002 - Load config.
+INFO 2021-05-14 12:16:58,002 - Load user.
+INFO 2021-05-14 12:16:58,002 - Set command aliases.
+INFO 2021-05-14 12:16:58,002 - Connect to IRC network.
+INFO 2021-05-14 12:17:15,377 - Format raw IRC message into parsed message.
+INFO 2021-05-14 12:20:51,433 - Initialize bot.
+INFO 2021-05-14 12:20:51,433 - Load config.
+INFO 2021-05-14 12:20:51,433 - Load user.
+INFO 2021-05-14 12:20:51,433 - Set command aliases.
+INFO 2021-05-14 12:20:51,434 - Connect to IRC network.
+INFO 2021-05-14 12:21:09,969 - Format raw IRC message into parsed message.
+INFO 2021-05-14 12:21:09,969 - Format raw IRC message into parsed message.
+INFO 2021-05-14 12:27:44,966 - Initialize bot.
+INFO 2021-05-14 12:27:44,966 - Load config.
+INFO 2021-05-14 12:27:44,966 - Load user.
+INFO 2021-05-14 12:27:44,966 - Set command aliases.
+INFO 2021-05-14 12:27:44,966 - Connect to IRC network.
+INFO 2021-05-14 12:28:06,733 - Format raw IRC message into parsed message.
+INFO 2021-05-14 12:28:12,916 - Format raw IRC message into parsed message.
+INFO 2021-05-14 12:28:36,280 - Format raw IRC message into parsed message.
+INFO 2021-05-14 12:28:36,291 - Attempt execute command: ping
+INFO 2021-05-14 12:28:36,291 - Format raw IRC message into parsed message.
+INFO 2021-05-14 12:28:36,291 - Attempt execute command: ping
+INFO 2021-05-14 12:31:55,315 - Initialize bot.
+INFO 2021-05-14 12:31:55,315 - Load config.
+INFO 2021-05-14 12:31:55,315 - Load user.
+INFO 2021-05-14 12:31:55,315 - Set command aliases.
+INFO 2021-05-14 12:31:55,315 - Connect to IRC network.
+INFO 2021-05-14 12:32:09,597 - Format raw IRC message into parsed message.
+INFO 2021-05-14 12:35:32,715 - Initialize bot.
+INFO 2021-05-14 12:35:32,715 - Load config.
+INFO 2021-05-14 12:35:32,716 - Load user.
+INFO 2021-05-14 12:35:32,716 - Set command aliases.
+INFO 2021-05-14 12:35:32,716 - Connect to IRC network.
+INFO 2021-05-14 12:35:53,535 - Format raw IRC message into parsed message.
+INFO 2021-05-14 12:35:53,837 - Attempt execute command: atom
+INFO 2021-05-14 12:35:53,837 - Format raw IRC message into parsed message.
+INFO 2021-05-14 12:35:53,837 - Attempt execute command: atom
+INFO 2021-05-15 12:12:24,189 - Initialize bot.
+INFO 2021-05-15 12:12:24,196 - Load config.
+INFO 2021-05-15 12:12:24,203 - Load user.
+INFO 2021-05-15 12:12:24,203 - Set command aliases.
+INFO 2021-05-15 12:12:24,203 - Connect to IRC network.
+INFO 2021-05-15 12:12:42,058 - Format raw IRC message into parsed message.
+INFO 2021-05-15 12:12:42,553 - Attempt execute command: atom
+INFO 2021-05-15 12:12:42,553 - Format raw IRC message into parsed message.
+INFO 2021-05-15 12:12:42,553 - Attempt execute command: atom
+INFO 2021-05-15 12:13:16,715 - Initialize bot.
+INFO 2021-05-15 12:13:16,715 - Load config.
+INFO 2021-05-15 12:13:16,715 - Load user.
+INFO 2021-05-15 12:13:16,715 - Set command aliases.
+INFO 2021-05-15 12:13:16,716 - Connect to IRC network.
+INFO 2021-05-15 12:13:31,642 - Format raw IRC message into parsed message.
+INFO 2021-05-15 12:13:32,052 - Attempt execute command: atom
+INFO 2021-05-15 12:13:32,052 - Format raw IRC message into parsed message.
+INFO 2021-05-15 12:13:32,052 - Attempt execute command: atom
+INFO 2021-05-15 12:15:24,476 - Initialize bot.
+INFO 2021-05-15 12:15:24,476 - Load config.
+INFO 2021-05-15 12:15:24,476 - Load user.
+INFO 2021-05-15 12:15:24,476 - Set command aliases.
+INFO 2021-05-15 12:15:24,476 - Connect to IRC network.
+INFO 2021-05-15 12:15:41,556 - Format raw IRC message into parsed message.
+INFO 2021-05-15 12:15:41,569 - Attempt execute command: ping
+INFO 2021-05-15 12:15:41,569 - Format raw IRC message into parsed message.
+INFO 2021-05-15 12:15:41,569 - Attempt execute command: ping
+INFO 2021-05-15 12:16:29,076 - Initialize bot.
+INFO 2021-05-15 12:16:29,076 - Load config.
+INFO 2021-05-15 12:16:29,076 - Load user.
+INFO 2021-05-15 12:16:29,076 - Set command aliases.
+INFO 2021-05-15 12:16:29,076 - Connect to IRC network.
+INFO 2021-05-15 12:16:53,814 - Format raw IRC message into parsed message.
+INFO 2021-05-15 12:17:04,509 - Format raw IRC message into parsed message.
+INFO 2021-05-15 12:17:04,522 - Attempt execute command: help
+INFO 2021-05-15 12:17:04,522 - Format raw IRC message into parsed message.
+INFO 2021-05-15 12:17:04,522 - Attempt execute command: help
+INFO 2021-05-15 12:20:06,141 - Initialize bot.
+INFO 2021-05-15 12:20:06,142 - Load config.
+INFO 2021-05-15 12:20:06,142 - Load user.
+INFO 2021-05-15 12:20:06,142 - Set command aliases.
+INFO 2021-05-15 12:20:06,142 - Connect to IRC network.
+INFO 2021-05-15 12:20:21,757 - Format raw IRC message into parsed message.
+INFO 2021-05-15 12:21:11,562 - Initialize bot.
+INFO 2021-05-15 12:21:11,562 - Load config.
+INFO 2021-05-15 12:21:11,562 - Load user.
+INFO 2021-05-15 12:21:11,562 - Set command aliases.
+INFO 2021-05-15 12:21:11,562 - Connect to IRC network.
+INFO 2021-05-15 12:21:26,335 - Format raw IRC message into parsed message.
+INFO 2021-05-15 12:21:35,417 - Format raw IRC message into parsed message.
+INFO 2021-05-15 12:22:19,314 - Format raw IRC message into parsed message.
+INFO 2021-05-15 12:22:47,886 - Format raw IRC message into parsed message.
+INFO 2021-05-15 12:25:59,639 - Initialize bot.
+INFO 2021-05-15 12:25:59,639 - Load config.
+INFO 2021-05-15 12:25:59,639 - Load user.
+INFO 2021-05-15 12:25:59,639 - Set command aliases.
+INFO 2021-05-15 12:25:59,639 - Connect to IRC network.
+INFO 2021-05-15 12:26:15,509 - Format raw IRC message into parsed message.
+INFO 2021-05-15 12:26:28,034 - Format raw IRC message into parsed message.
+INFO 2021-05-15 12:27:02,269 - Initialize bot.
+INFO 2021-05-15 12:27:02,269 - Load config.
+INFO 2021-05-15 12:27:02,269 - Load user.
+INFO 2021-05-15 12:27:02,270 - Set command aliases.
+INFO 2021-05-15 12:27:02,270 - Connect to IRC network.
+INFO 2021-05-15 12:27:21,472 - Format raw IRC message into parsed message.
+INFO 2021-05-15 12:27:21,472 - Attempt execute command: ping
+INFO 2021-05-15 12:27:21,473 - Format raw IRC message into parsed message.
+INFO 2021-05-15 12:27:21,473 - Attempt execute command: ping
+INFO 2021-05-15 12:27:32,535 - Format raw IRC message into parsed message.
+INFO 2021-05-15 12:27:32,856 - Attempt execute command: chan
+INFO 2021-05-15 12:27:33,964 - Format raw IRC message into parsed message.
+INFO 2021-05-15 12:27:33,964 - Attempt execute command: chan
+INFO 2021-05-15 12:28:34,163 - Initialize bot.
+INFO 2021-05-15 12:28:34,164 - Load config.
+INFO 2021-05-15 12:28:34,164 - Load user.
+INFO 2021-05-15 12:28:34,164 - Set command aliases.
+INFO 2021-05-15 12:28:34,164 - Connect to IRC network.
+INFO 2021-05-15 12:28:55,200 - Format raw IRC message into parsed message.
+INFO 2021-05-15 12:28:55,201 - Attempt execute command: ping
+INFO 2021-05-15 12:28:55,201 - Format raw IRC message into parsed message.
+INFO 2021-05-15 12:28:55,201 - Attempt execute command: ping
+INFO 2021-05-15 12:29:07,896 - Format raw IRC message into parsed message.
+INFO 2021-05-15 12:29:15,654 - Format raw IRC message into parsed message.
+INFO 2021-05-15 12:29:15,898 - Attempt execute command: atom
+INFO 2021-05-15 12:29:15,899 - Format raw IRC message into parsed message.
+INFO 2021-05-15 12:29:15,899 - Attempt execute command: atom
+INFO 2021-05-16 12:09:12,537 - Initialize bot.
+INFO 2021-05-16 12:09:12,553 - Load config.
+INFO 2021-05-16 12:09:12,556 - Load user.
+INFO 2021-05-16 12:09:12,556 - Set command aliases.
+INFO 2021-05-16 12:09:12,556 - Connect to IRC network.
+INFO 2021-05-16 12:09:30,235 - Format raw IRC message into parsed message.
+INFO 2021-05-16 12:09:30,240 - Attempt execute command: ping
+INFO 2021-05-16 12:09:30,240 - Format raw IRC message into parsed message.
+INFO 2021-05-16 12:09:30,240 - Attempt execute command: ping
+INFO 2021-05-16 12:09:37,871 - Format raw IRC message into parsed message.
+INFO 2021-05-16 12:09:37,886 - Attempt execute command: help
+INFO 2021-05-16 12:09:37,886 - Format raw IRC message into parsed message.
+INFO 2021-05-16 12:09:37,886 - Attempt execute command: help
+INFO 2021-05-16 12:10:45,638 - Format raw IRC message into parsed message.
+INFO 2021-05-16 12:10:45,970 - Attempt execute command: ytdl
+INFO 2021-05-16 12:10:47,321 - Format raw IRC message into parsed message.
+INFO 2021-05-16 12:10:47,321 - Attempt execute command: ytdl
+INFO 2021-05-16 12:11:13,056 - Format raw IRC message into parsed message.
+INFO 2021-05-16 12:11:13,056 - Attempt execute command: chan
+INFO 2021-05-16 12:11:13,808 - Format raw IRC message into parsed message.
+INFO 2021-05-16 12:11:13,808 - Attempt execute command: chan
+INFO 2021-05-16 12:12:12,014 - Format raw IRC message into parsed message.
+INFO 2021-05-16 12:12:12,014 - Attempt execute command: info
+INFO 2021-05-16 12:12:12,794 - Format raw IRC message into parsed message.
+INFO 2021-05-16 12:12:12,794 - Attempt execute command: info
+INFO 2021-05-16 12:12:32,019 - Format raw IRC message into parsed message.
+DEBUG 2021-05-16 12:12:33,076 - Starting new HTTPS connection (1): feedforall.com:443
+DEBUG 2021-05-16 12:12:33,504 - https://feedforall.com:443 "GET /sample.xml HTTP/1.1" 200 8631
+INFO 2021-05-16 12:12:33,528 - Attempt execute command: rss
+INFO 2021-05-16 12:12:33,528 - Format raw IRC message into parsed message.
+INFO 2021-05-16 12:12:33,528 - Attempt execute command: rss
+INFO 2021-05-16 12:12:40,300 - Format raw IRC message into parsed message.
+INFO 2021-05-16 12:12:40,721 - Attempt execute command: atom
+INFO 2021-05-16 12:12:40,721 - Format raw IRC message into parsed message.
+INFO 2021-05-16 12:12:40,721 - Attempt execute command: atom
+INFO 2021-05-16 12:16:08,020 - Initialize bot.
+INFO 2021-05-16 12:16:08,020 - Load config.
+INFO 2021-05-16 12:16:08,020 - Load user.
+INFO 2021-05-16 12:16:08,020 - Set command aliases.
+INFO 2021-05-16 12:16:08,020 - Connect to IRC network.
+INFO 2021-05-16 12:16:25,361 - Format raw IRC message into parsed message.
+INFO 2021-05-16 12:16:25,361 - Format raw IRC message into parsed message.
+INFO 2021-05-16 12:16:32,573 - Format raw IRC message into parsed message.
+INFO 2021-05-16 12:16:32,573 - Format raw IRC message into parsed message.
+INFO 2021-05-16 12:16:46,013 - Format raw IRC message into parsed message.
+INFO 2021-05-16 12:16:46,307 - Attempt execute command: info
+INFO 2021-05-16 12:16:47,726 - Format raw IRC message into parsed message.
+INFO 2021-05-16 12:16:47,726 - Attempt execute command: info
+INFO 2021-05-17 12:36:11,609 - Initialize bot.
+INFO 2021-05-17 12:36:11,625 - Load config.
+INFO 2021-05-17 12:36:11,625 - Load user.
+INFO 2021-05-17 12:36:11,625 - Set command aliases.
+INFO 2021-05-17 12:36:11,625 - Connect to IRC network.
+INFO 2021-05-17 12:36:29,383 - Format raw IRC message into parsed message.
+INFO 2021-05-17 12:36:29,683 - Attempt execute command: atom
+INFO 2021-05-17 12:36:29,683 - Format raw IRC message into parsed message.
+INFO 2021-05-17 12:36:29,683 - Attempt execute command: atom
+INFO 2021-05-17 12:47:09,065 - Initialize bot.
+INFO 2021-05-17 12:47:09,065 - Load config.
+INFO 2021-05-17 12:47:09,065 - Load user.
+INFO 2021-05-17 12:47:09,065 - Set command aliases.
+INFO 2021-05-17 12:47:09,066 - Connect to IRC network.
+INFO 2021-05-17 12:47:25,718 - Format raw IRC message into parsed message.
+INFO 2021-05-17 12:47:42,227 - Initialize bot.
+INFO 2021-05-17 12:47:42,227 - Load config.
+INFO 2021-05-17 12:47:42,227 - Load user.
+INFO 2021-05-17 12:47:42,227 - Set command aliases.
+INFO 2021-05-17 12:47:42,227 - Connect to IRC network.
+INFO 2021-05-17 12:48:02,423 - Format raw IRC message into parsed message.
+INFO 2021-05-17 12:48:02,777 - Attempt execute command: atom
+INFO 2021-05-17 12:48:20,945 - Initialize bot.
+INFO 2021-05-17 12:48:20,945 - Load config.
+INFO 2021-05-17 12:48:20,945 - Load user.
+INFO 2021-05-17 12:48:20,945 - Set command aliases.
+INFO 2021-05-17 12:48:20,945 - Connect to IRC network.
+INFO 2021-05-17 12:48:39,485 - Format raw IRC message into parsed message.
+INFO 2021-05-17 12:48:39,834 - Attempt execute command: atom
+INFO 2021-05-17 12:54:16,403 - Initialize bot.
+INFO 2021-05-17 12:54:16,403 - Load config.
+INFO 2021-05-17 12:54:16,403 - Load user.
+INFO 2021-05-17 12:54:16,403 - Set command aliases.
+INFO 2021-05-17 12:54:16,404 - Connect to IRC network.
+INFO 2021-05-17 12:54:35,498 - Format raw IRC message into parsed message.
+INFO 2021-05-17 12:54:35,880 - Attempt execute command: atom
+INFO 2021-05-17 12:57:04,670 - Initialize bot.
+INFO 2021-05-17 12:57:04,671 - Load config.
+INFO 2021-05-17 12:57:04,671 - Load user.
+INFO 2021-05-17 12:57:04,671 - Set command aliases.
+INFO 2021-05-17 12:57:04,671 - Connect to IRC network.
+INFO 2021-05-17 12:57:23,922 - Format raw IRC message into parsed message.
+INFO 2021-05-17 13:01:54,330 - Initialize bot.
+INFO 2021-05-17 13:01:54,330 - Load config.
+INFO 2021-05-17 13:01:54,330 - Load user.
+INFO 2021-05-17 13:01:54,330 - Set command aliases.
+INFO 2021-05-17 13:01:54,330 - Connect to IRC network.
+INFO 2021-05-17 13:02:17,926 - Format raw IRC message into parsed message.
+INFO 2021-05-17 13:02:18,276 - Attempt execute command: atom
+INFO 2021-05-17 13:03:18,345 - Initialize bot.
+INFO 2021-05-17 13:03:18,345 - Load config.
+INFO 2021-05-17 13:03:18,345 - Load user.
+INFO 2021-05-17 13:03:18,345 - Set command aliases.
+INFO 2021-05-17 13:03:18,345 - Connect to IRC network.
+INFO 2021-05-17 13:03:36,849 - Format raw IRC message into parsed message.
+INFO 2021-05-17 13:03:37,114 - Attempt execute command: atom
+INFO 2021-05-17 13:07:27,456 - Initialize bot.
+INFO 2021-05-17 13:07:27,456 - Load config.
+INFO 2021-05-17 13:07:27,456 - Load user.
+INFO 2021-05-17 13:07:27,456 - Set command aliases.
+INFO 2021-05-17 13:07:27,456 - Connect to IRC network.
+INFO 2021-05-17 13:07:45,323 - Format raw IRC message into parsed message.
+INFO 2021-05-17 13:07:45,670 - Attempt execute command: atom
+INFO 2021-05-17 13:08:35,798 - Initialize bot.
+INFO 2021-05-17 13:08:35,799 - Load config.
+INFO 2021-05-17 13:08:35,799 - Load user.
+INFO 2021-05-17 13:08:35,799 - Set command aliases.
+INFO 2021-05-17 13:08:35,799 - Connect to IRC network.
+INFO 2021-05-17 13:08:55,394 - Format raw IRC message into parsed message.
+INFO 2021-05-17 13:08:55,790 - Attempt execute command: atom
+INFO 2021-05-17 13:15:34,697 - Initialize bot.
+INFO 2021-05-17 13:15:34,697 - Load config.
+INFO 2021-05-17 13:15:34,698 - Load user.
+INFO 2021-05-17 13:15:34,698 - Set command aliases.
+INFO 2021-05-17 13:15:34,698 - Connect to IRC network.
+INFO 2021-05-17 13:15:54,498 - Format raw IRC message into parsed message.
+INFO 2021-05-17 13:15:54,796 - Attempt execute command: atom
+INFO 2021-05-17 13:17:45,518 - Initialize bot.
+INFO 2021-05-17 13:17:45,518 - Load config.
+INFO 2021-05-17 13:17:45,519 - Load user.
+INFO 2021-05-17 13:17:45,519 - Set command aliases.
+INFO 2021-05-17 13:17:45,519 - Connect to IRC network.
+INFO 2021-05-17 13:18:06,418 - Format raw IRC message into parsed message.
+INFO 2021-05-17 13:18:06,714 - Attempt execute command: atom
+INFO 2021-05-17 13:20:34,269 - Initialize bot.
+INFO 2021-05-17 13:20:34,270 - Load config.
+INFO 2021-05-17 13:20:34,270 - Load user.
+INFO 2021-05-17 13:20:34,270 - Set command aliases.
+INFO 2021-05-17 13:20:34,270 - Connect to IRC network.
+INFO 2021-05-17 13:20:57,671 - Format raw IRC message into parsed message.
+INFO 2021-05-17 13:20:58,026 - Attempt execute command: atom
+INFO 2021-05-17 13:22:57,845 - Initialize bot.
+INFO 2021-05-17 13:22:57,845 - Load config.
+INFO 2021-05-17 13:22:57,846 - Load user.
+INFO 2021-05-17 13:22:57,846 - Set command aliases.
+INFO 2021-05-17 13:22:57,846 - Connect to IRC network.
+INFO 2021-05-17 13:23:16,417 - Format raw IRC message into parsed message.
+INFO 2021-05-17 13:23:16,741 - Attempt execute command: atom
+INFO 2021-05-17 13:24:01,229 - Initialize bot.
+INFO 2021-05-17 13:24:01,229 - Load config.
+INFO 2021-05-17 13:24:01,239 - Load user.
+INFO 2021-05-17 13:24:01,239 - Set command aliases.
+INFO 2021-05-17 13:24:01,239 - Connect to IRC network.
+INFO 2021-05-17 13:24:17,472 - Format raw IRC message into parsed message.
+INFO 2021-05-17 13:24:17,747 - Attempt execute command: atom
+INFO 2021-05-17 13:26:03,939 - Initialize bot.
+INFO 2021-05-17 13:26:03,939 - Load config.
+INFO 2021-05-17 13:26:03,940 - Load user.
+INFO 2021-05-17 13:26:03,940 - Set command aliases.
+INFO 2021-05-17 13:26:03,940 - Connect to IRC network.
+INFO 2021-05-17 13:26:23,280 - Format raw IRC message into parsed message.
+INFO 2021-05-17 13:26:23,747 - Attempt execute command: atom
+INFO 2021-05-17 13:26:48,428 - Initialize bot.
+INFO 2021-05-17 13:26:48,428 - Load config.
+INFO 2021-05-17 13:26:48,428 - Load user.
+INFO 2021-05-17 13:26:48,428 - Set command aliases.
+INFO 2021-05-17 13:26:48,428 - Connect to IRC network.
+INFO 2021-05-17 13:27:08,032 - Format raw IRC message into parsed message.
+INFO 2021-05-17 13:27:08,318 - Attempt execute command: atom
+INFO 2021-05-17 13:27:08,318 - Format raw IRC message into parsed message.
+INFO 2021-05-17 13:27:08,318 - Attempt execute command: atom
+INFO 2021-05-17 13:29:07,364 - Initialize bot.
+INFO 2021-05-17 13:29:07,364 - Load config.
+INFO 2021-05-17 13:29:07,364 - Load user.
+INFO 2021-05-17 13:29:07,364 - Set command aliases.
+INFO 2021-05-17 13:29:07,364 - Connect to IRC network.
+INFO 2021-05-17 13:29:30,440 - Format raw IRC message into parsed message.
+INFO 2021-05-17 13:29:30,740 - Attempt execute command: atom
+INFO 2021-05-17 13:29:30,740 - Format raw IRC message into parsed message.
+INFO 2021-05-17 13:29:30,740 - Attempt execute command: atom
+INFO 2021-05-17 13:31:41,627 - Initialize bot.
+INFO 2021-05-17 13:31:41,627 - Load config.
+INFO 2021-05-17 13:31:41,627 - Load user.
+INFO 2021-05-17 13:31:41,628 - Set command aliases.
+INFO 2021-05-17 13:31:41,628 - Connect to IRC network.
+INFO 2021-05-17 13:31:57,572 - Format raw IRC message into parsed message.
+INFO 2021-05-17 13:31:57,922 - Attempt execute command: atom
+INFO 2021-05-17 13:31:57,922 - Format raw IRC message into parsed message.
+INFO 2021-05-17 13:31:57,922 - Attempt execute command: atom
+INFO 2021-05-17 13:32:57,137 - Initialize bot.
+INFO 2021-05-17 13:32:57,137 - Load config.
+INFO 2021-05-17 13:32:57,137 - Load user.
+INFO 2021-05-17 13:32:57,137 - Set command aliases.
+INFO 2021-05-17 13:32:57,137 - Connect to IRC network.
+INFO 2021-05-17 13:33:15,860 - Format raw IRC message into parsed message.
+INFO 2021-05-17 13:33:31,658 - Initialize bot.
+INFO 2021-05-17 13:33:31,658 - Load config.
+INFO 2021-05-17 13:33:31,658 - Load user.
+INFO 2021-05-17 13:33:31,658 - Set command aliases.
+INFO 2021-05-17 13:33:31,658 - Connect to IRC network.
+INFO 2021-05-17 13:33:46,365 - Format raw IRC message into parsed message.
+INFO 2021-05-17 13:33:46,692 - Attempt execute command: atom
+INFO 2021-05-17 13:33:46,692 - Format raw IRC message into parsed message.
+INFO 2021-05-17 13:33:46,692 - Attempt execute command: atom
+INFO 2021-05-17 13:35:45,856 - Initialize bot.
+INFO 2021-05-17 13:35:45,856 - Load config.
+INFO 2021-05-17 13:35:45,856 - Load user.
+INFO 2021-05-17 13:35:45,856 - Set command aliases.
+INFO 2021-05-17 13:35:45,856 - Connect to IRC network.
+INFO 2021-05-17 13:36:01,140 - Format raw IRC message into parsed message.
+INFO 2021-05-17 13:36:01,448 - Attempt execute command: atom
+INFO 2021-05-17 13:36:01,448 - Format raw IRC message into parsed message.
+INFO 2021-05-17 13:36:01,448 - Attempt execute command: atom
+INFO 2021-05-17 13:39:29,793 - Initialize bot.
+INFO 2021-05-17 13:39:29,793 - Load config.
+INFO 2021-05-17 13:39:29,793 - Load user.
+INFO 2021-05-17 13:39:29,794 - Set command aliases.
+INFO 2021-05-17 13:39:29,794 - Connect to IRC network.
+INFO 2021-05-17 13:39:48,226 - Format raw IRC message into parsed message.
+INFO 2021-05-17 13:39:48,687 - Attempt execute command: atom
+INFO 2021-05-17 13:39:48,687 - Format raw IRC message into parsed message.
+INFO 2021-05-17 13:39:48,687 - Attempt execute command: atom
+INFO 2021-05-17 13:41:30,984 - Initialize bot.
+INFO 2021-05-17 13:41:30,985 - Load config.
+INFO 2021-05-17 13:41:30,985 - Load user.
+INFO 2021-05-17 13:41:30,985 - Set command aliases.
+INFO 2021-05-17 13:41:30,985 - Connect to IRC network.
+INFO 2021-05-17 13:41:47,799 - Format raw IRC message into parsed message.
+INFO 2021-05-17 13:41:48,215 - Attempt execute command: atom
+INFO 2021-05-17 13:41:48,215 - Format raw IRC message into parsed message.
+INFO 2021-05-17 13:41:48,215 - Attempt execute command: atom
+INFO 2021-05-17 13:44:02,805 - Initialize bot.
+INFO 2021-05-17 13:44:02,806 - Load config.
+INFO 2021-05-17 13:44:02,806 - Load user.
+INFO 2021-05-17 13:44:02,806 - Set command aliases.
+INFO 2021-05-17 13:44:02,806 - Connect to IRC network.
+INFO 2021-05-17 13:44:19,386 - Format raw IRC message into parsed message.
+INFO 2021-05-17 13:44:19,740 - Attempt execute command: atom
+INFO 2021-05-17 13:44:19,741 - Format raw IRC message into parsed message.
+INFO 2021-05-17 13:44:19,741 - Attempt execute command: atom
+INFO 2021-05-17 13:44:41,240 - Initialize bot.
+INFO 2021-05-17 13:44:41,240 - Load config.
+INFO 2021-05-17 13:44:41,240 - Load user.
+INFO 2021-05-17 13:44:41,240 - Set command aliases.
+INFO 2021-05-17 13:44:41,240 - Connect to IRC network.
+INFO 2021-05-17 13:44:56,050 - Format raw IRC message into parsed message.
+INFO 2021-05-17 13:44:56,382 - Attempt execute command: atom
+INFO 2021-05-17 13:44:56,382 - Format raw IRC message into parsed message.
+INFO 2021-05-17 13:44:56,382 - Attempt execute command: atom
+INFO 2021-05-17 13:53:03,044 - Initialize bot.
+INFO 2021-05-17 13:53:03,044 - Load config.
+INFO 2021-05-17 13:53:03,045 - Load user.
+INFO 2021-05-17 13:53:03,045 - Set command aliases.
+INFO 2021-05-17 13:53:03,045 - Connect to IRC network.
+INFO 2021-05-17 13:53:21,221 - Format raw IRC message into parsed message.
+INFO 2021-05-17 13:53:21,598 - Attempt execute command: atom
+INFO 2021-05-17 13:53:21,599 - Format raw IRC message into parsed message.
+INFO 2021-05-17 13:53:21,599 - Attempt execute command: atom
+INFO 2021-05-17 13:57:18,082 - Initialize bot.
+INFO 2021-05-17 13:57:18,082 - Load config.
+INFO 2021-05-17 13:57:18,082 - Load user.
+INFO 2021-05-17 13:57:18,082 - Set command aliases.
+INFO 2021-05-17 13:57:18,082 - Connect to IRC network.
+INFO 2021-05-17 13:57:38,180 - Format raw IRC message into parsed message.
+INFO 2021-05-17 13:57:38,539 - Attempt execute command: atom
+INFO 2021-05-17 14:01:13,492 - Initialize bot.
+INFO 2021-05-17 14:01:13,492 - Load config.
+INFO 2021-05-17 14:01:13,492 - Load user.
+INFO 2021-05-17 14:01:13,492 - Set command aliases.
+INFO 2021-05-17 14:01:13,492 - Connect to IRC network.
+INFO 2021-05-17 14:01:32,519 - Format raw IRC message into parsed message.
+INFO 2021-05-17 14:01:32,878 - Attempt execute command: atom
+INFO 2021-05-17 14:08:29,931 - Initialize bot.
+INFO 2021-05-17 14:08:29,931 - Load config.
+INFO 2021-05-17 14:08:29,931 - Load user.
+INFO 2021-05-17 14:08:29,931 - Set command aliases.
+INFO 2021-05-17 14:08:29,931 - Connect to IRC network.
+INFO 2021-05-17 14:08:46,396 - Format raw IRC message into parsed message.
+INFO 2021-05-17 14:08:46,754 - Attempt execute command: atom
+INFO 2021-05-17 14:10:52,261 - Initialize bot.
+INFO 2021-05-17 14:10:52,261 - Load config.
+INFO 2021-05-17 14:10:52,262 - Load user.
+INFO 2021-05-17 14:10:52,262 - Set command aliases.
+INFO 2021-05-17 14:10:52,262 - Connect to IRC network.
+INFO 2021-05-17 14:11:11,745 - Format raw IRC message into parsed message.
+INFO 2021-05-17 14:11:12,043 - Attempt execute command: atom
+INFO 2021-05-17 14:12:37,715 - Initialize bot.
+INFO 2021-05-17 14:12:37,715 - Load config.
+INFO 2021-05-17 14:12:37,715 - Load user.
+INFO 2021-05-17 14:12:37,715 - Set command aliases.
+INFO 2021-05-17 14:12:37,715 - Connect to IRC network.
+INFO 2021-05-17 14:12:56,622 - Format raw IRC message into parsed message.
+INFO 2021-05-17 14:12:57,059 - Attempt execute command: atom
+INFO 2021-05-17 14:13:13,253 - Initialize bot.
+INFO 2021-05-17 14:13:13,254 - Load config.
+INFO 2021-05-17 14:13:13,254 - Load user.
+INFO 2021-05-17 14:13:13,254 - Set command aliases.
+INFO 2021-05-17 14:13:13,254 - Connect to IRC network.
+INFO 2021-05-17 14:13:29,285 - Format raw IRC message into parsed message.
+INFO 2021-05-17 14:13:29,634 - Attempt execute command: atom
+INFO 2021-05-17 14:20:32,471 - Initialize bot.
+INFO 2021-05-17 14:20:32,471 - Load config.
+INFO 2021-05-17 14:20:32,471 - Load user.
+INFO 2021-05-17 14:20:32,471 - Set command aliases.
+INFO 2021-05-17 14:20:32,471 - Connect to IRC network.
+INFO 2021-05-17 14:20:49,956 - Format raw IRC message into parsed message.
+INFO 2021-05-17 14:20:50,310 - Attempt execute command: atom
+INFO 2021-05-17 14:24:53,180 - Initialize bot.
+INFO 2021-05-17 14:24:53,180 - Load config.
+INFO 2021-05-17 14:24:53,180 - Load user.
+INFO 2021-05-17 14:24:53,180 - Set command aliases.
+INFO 2021-05-17 14:24:53,180 - Connect to IRC network.
+INFO 2021-05-17 14:25:15,907 - Format raw IRC message into parsed message.
+INFO 2021-05-17 14:25:33,060 - Initialize bot.
+INFO 2021-05-17 14:25:33,061 - Load config.
+INFO 2021-05-17 14:25:33,061 - Load user.
+INFO 2021-05-17 14:25:33,061 - Set command aliases.
+INFO 2021-05-17 14:25:33,061 - Connect to IRC network.
+INFO 2021-05-17 14:25:50,984 - Format raw IRC message into parsed message.
+INFO 2021-05-17 14:25:51,333 - Attempt execute command: atom
+INFO 2021-05-17 14:31:51,465 - Initialize bot.
+INFO 2021-05-17 14:31:51,466 - Load config.
+INFO 2021-05-17 14:31:51,466 - Load user.
+INFO 2021-05-17 14:31:51,466 - Set command aliases.
+INFO 2021-05-17 14:31:51,466 - Connect to IRC network.
+INFO 2021-05-17 14:32:07,357 - Format raw IRC message into parsed message.
+INFO 2021-05-17 14:32:07,655 - Attempt execute command: atom
+INFO 2021-05-17 14:34:35,542 - Initialize bot.
+INFO 2021-05-17 14:34:35,543 - Load config.
+INFO 2021-05-17 14:34:35,543 - Load user.
+INFO 2021-05-17 14:34:35,543 - Set command aliases.
+INFO 2021-05-17 14:34:35,543 - Connect to IRC network.
+INFO 2021-05-17 14:34:51,755 - Format raw IRC message into parsed message.
+INFO 2021-05-17 14:34:52,105 - Attempt execute command: atom
+INFO 2021-05-17 14:36:33,814 - Initialize bot.
+INFO 2021-05-17 14:36:33,814 - Load config.
+INFO 2021-05-17 14:36:33,814 - Load user.
+INFO 2021-05-17 14:36:33,814 - Set command aliases.
+INFO 2021-05-17 14:36:33,814 - Connect to IRC network.
+INFO 2021-05-17 14:36:52,698 - Format raw IRC message into parsed message.
+INFO 2021-05-17 14:36:53,105 - Attempt execute command: atom
+INFO 2021-05-17 14:48:09,161 - Initialize bot.
+INFO 2021-05-17 14:48:09,161 - Load config.
+INFO 2021-05-17 14:48:09,161 - Load user.
+INFO 2021-05-17 14:48:09,161 - Set command aliases.
+INFO 2021-05-17 14:48:09,161 - Connect to IRC network.
+INFO 2021-05-17 14:48:27,386 - Format raw IRC message into parsed message.
+INFO 2021-05-17 14:48:27,822 - Attempt execute command: atom
+INFO 2021-05-17 14:48:53,450 - Initialize bot.
+INFO 2021-05-17 14:48:53,450 - Load config.
+INFO 2021-05-17 14:48:53,450 - Load user.
+INFO 2021-05-17 14:48:53,450 - Set command aliases.
+INFO 2021-05-17 14:48:53,450 - Connect to IRC network.
+INFO 2021-05-17 14:49:13,844 - Format raw IRC message into parsed message.
+INFO 2021-05-17 14:49:14,168 - Attempt execute command: atom
+INFO 2021-05-17 14:50:24,254 - Initialize bot.
+INFO 2021-05-17 14:50:24,255 - Load config.
+INFO 2021-05-17 14:50:24,255 - Load user.
+INFO 2021-05-17 14:50:24,255 - Set command aliases.
+INFO 2021-05-17 14:50:24,255 - Connect to IRC network.
+INFO 2021-05-17 14:50:40,833 - Format raw IRC message into parsed message.
+INFO 2021-05-17 14:50:41,128 - Attempt execute command: atom
+INFO 2021-05-17 14:51:39,127 - Initialize bot.
+INFO 2021-05-17 14:51:39,127 - Load config.
+INFO 2021-05-17 14:51:39,127 - Load user.
+INFO 2021-05-17 14:51:39,127 - Set command aliases.
+INFO 2021-05-17 14:51:39,127 - Connect to IRC network.
+INFO 2021-05-17 14:51:57,648 - Format raw IRC message into parsed message.
+INFO 2021-05-17 14:51:57,920 - Attempt execute command: atom
+INFO 2021-05-17 14:52:29,277 - Initialize bot.
+INFO 2021-05-17 14:52:29,277 - Load config.
+INFO 2021-05-17 14:52:29,278 - Load user.
+INFO 2021-05-17 14:52:29,278 - Set command aliases.
+INFO 2021-05-17 14:52:29,278 - Connect to IRC network.
+INFO 2021-05-17 14:52:45,067 - Format raw IRC message into parsed message.
+INFO 2021-05-17 14:52:45,342 - Attempt execute command: atom
+INFO 2021-05-17 14:52:45,343 - Format raw IRC message into parsed message.
+INFO 2021-05-17 14:52:45,343 - Attempt execute command: atom
+INFO 2021-05-17 14:53:37,097 - Initialize bot.
+INFO 2021-05-17 14:53:37,097 - Load config.
+INFO 2021-05-17 14:53:37,097 - Load user.
+INFO 2021-05-17 14:53:37,097 - Set command aliases.
+INFO 2021-05-17 14:53:37,098 - Connect to IRC network.
+INFO 2021-05-17 14:53:52,374 - Format raw IRC message into parsed message.
+INFO 2021-05-17 14:53:52,685 - Attempt execute command: atom
+INFO 2021-05-17 15:06:49,375 - Initialize bot.
+INFO 2021-05-17 15:06:49,375 - Load config.
+INFO 2021-05-17 15:06:49,375 - Load user.
+INFO 2021-05-17 15:06:49,375 - Set command aliases.
+INFO 2021-05-17 15:06:49,375 - Connect to IRC network.
+INFO 2021-05-17 15:07:05,306 - Format raw IRC message into parsed message.
+INFO 2021-05-17 15:07:05,783 - Attempt execute command: atom
+INFO 2021-05-17 15:08:32,573 - Initialize bot.
+INFO 2021-05-17 15:08:32,573 - Load config.
+INFO 2021-05-17 15:08:32,573 - Load user.
+INFO 2021-05-17 15:08:32,574 - Set command aliases.
+INFO 2021-05-17 15:08:32,574 - Connect to IRC network.
+INFO 2021-05-17 15:08:49,836 - Format raw IRC message into parsed message.
+INFO 2021-05-17 15:08:49,877 - Initialize bot.
+INFO 2021-05-17 15:08:49,877 - Load config.
+INFO 2021-05-17 15:08:49,877 - Load user.
+INFO 2021-05-17 15:08:49,877 - Set command aliases.
+INFO 2021-05-17 15:08:49,877 - Connect to IRC network.
+INFO 2021-05-17 15:09:20,400 - Initialize bot.
+INFO 2021-05-17 15:09:20,400 - Load config.
+INFO 2021-05-17 15:09:20,400 - Load user.
+INFO 2021-05-17 15:09:20,400 - Set command aliases.
+INFO 2021-05-17 15:09:20,400 - Connect to IRC network.
+INFO 2021-05-17 15:09:40,534 - Format raw IRC message into parsed message.
+INFO 2021-05-17 15:09:40,575 - Initialize bot.
+INFO 2021-05-17 15:09:40,575 - Load config.
+INFO 2021-05-17 15:09:40,575 - Load user.
+INFO 2021-05-17 15:09:40,575 - Set command aliases.
+INFO 2021-05-17 15:09:40,575 - Connect to IRC network.
+INFO 2021-05-17 15:23:46,046 - Initialize bot.
+INFO 2021-05-17 15:23:46,046 - Load config.
+INFO 2021-05-17 15:23:46,046 - Load user.
+INFO 2021-05-17 15:23:46,046 - Set command aliases.
+INFO 2021-05-17 15:23:46,046 - Connect to IRC network.
+INFO 2021-05-17 15:24:19,671 - Initialize bot.
+INFO 2021-05-17 15:24:19,671 - Load config.
+INFO 2021-05-17 15:24:19,671 - Load user.
+INFO 2021-05-17 15:24:19,671 - Set command aliases.
+INFO 2021-05-17 15:24:19,671 - Connect to IRC network.
+INFO 2021-05-17 15:25:38,091 - Initialize bot.
+INFO 2021-05-17 15:25:38,091 - Load config.
+INFO 2021-05-17 15:25:38,092 - Load user.
+INFO 2021-05-17 15:25:38,092 - Set command aliases.
+INFO 2021-05-17 15:25:38,092 - Connect to IRC network.
+INFO 2021-05-17 15:25:57,442 - Format raw IRC message into parsed message.
+INFO 2021-05-17 15:25:57,691 - Attempt execute command: atom
+INFO 2021-05-17 15:27:11,108 - Initialize bot.
+INFO 2021-05-17 15:27:11,108 - Load config.
+INFO 2021-05-17 15:27:11,108 - Load user.
+INFO 2021-05-17 15:27:11,108 - Set command aliases.
+INFO 2021-05-17 15:27:11,108 - Connect to IRC network.
+INFO 2021-05-17 15:27:27,568 - Format raw IRC message into parsed message.
+INFO 2021-05-17 15:27:27,763 - Attempt execute command: atom
+INFO 2021-05-17 15:27:27,763 - Format raw IRC message into parsed message.
+INFO 2021-05-17 15:27:27,763 - Attempt execute command: atom
+INFO 2021-05-17 15:29:04,859 - Initialize bot.
+INFO 2021-05-17 15:29:04,859 - Load config.
+INFO 2021-05-17 15:29:04,859 - Load user.
+INFO 2021-05-17 15:29:04,859 - Set command aliases.
+INFO 2021-05-17 15:29:04,859 - Connect to IRC network.
+INFO 2021-05-17 15:29:22,946 - Format raw IRC message into parsed message.
+INFO 2021-05-17 15:29:23,152 - Attempt execute command: atom
+INFO 2021-05-17 15:29:23,153 - Format raw IRC message into parsed message.
+INFO 2021-05-17 15:29:23,153 - Attempt execute command: atom
+INFO 2021-05-17 15:30:31,838 - Initialize bot.
+INFO 2021-05-17 15:30:31,838 - Load config.
+INFO 2021-05-17 15:30:31,838 - Load user.
+INFO 2021-05-17 15:30:31,838 - Set command aliases.
+INFO 2021-05-17 15:30:31,838 - Connect to IRC network.
+INFO 2021-05-17 15:30:48,855 - Format raw IRC message into parsed message.
+INFO 2021-05-17 15:30:49,100 - Attempt execute command: atom
+INFO 2021-05-17 15:30:49,100 - Format raw IRC message into parsed message.
+INFO 2021-05-17 15:30:49,101 - Attempt execute command: atom
+INFO 2021-05-17 15:32:04,812 - Initialize bot.
+INFO 2021-05-17 15:32:04,812 - Load config.
+INFO 2021-05-17 15:32:04,812 - Load user.
+INFO 2021-05-17 15:32:04,812 - Set command aliases.
+INFO 2021-05-17 15:32:04,812 - Connect to IRC network.
+INFO 2021-05-17 15:32:24,588 - Format raw IRC message into parsed message.
+INFO 2021-05-17 15:32:24,788 - Attempt execute command: atom
+INFO 2021-05-17 15:32:24,788 - Format raw IRC message into parsed message.
+INFO 2021-05-17 15:32:24,788 - Attempt execute command: atom
+INFO 2021-05-17 15:34:22,005 - Initialize bot.
+INFO 2021-05-17 15:34:22,005 - Load config.
+INFO 2021-05-17 15:34:22,005 - Load user.
+INFO 2021-05-17 15:34:22,005 - Set command aliases.
+INFO 2021-05-17 15:34:22,005 - Connect to IRC network.
+INFO 2021-05-17 15:34:42,460 - Format raw IRC message into parsed message.
+INFO 2021-05-17 15:34:42,721 - Attempt execute command: atom
+INFO 2021-05-17 15:34:42,721 - Format raw IRC message into parsed message.
+INFO 2021-05-17 15:34:42,721 - Attempt execute command: atom
+INFO 2021-05-17 15:36:25,844 - Initialize bot.
+INFO 2021-05-17 15:36:25,844 - Load config.
+INFO 2021-05-17 15:36:25,845 - Load user.
+INFO 2021-05-17 15:36:25,845 - Set command aliases.
+INFO 2021-05-17 15:36:25,845 - Connect to IRC network.
+INFO 2021-05-17 15:36:42,605 - Format raw IRC message into parsed message.
+INFO 2021-05-17 15:36:42,801 - Attempt execute command: atom
+INFO 2021-05-17 15:36:42,801 - Format raw IRC message into parsed message.
+INFO 2021-05-17 15:36:42,801 - Attempt execute command: atom
+INFO 2021-05-17 15:37:47,181 - Initialize bot.
+INFO 2021-05-17 15:37:47,182 - Load config.
+INFO 2021-05-17 15:37:47,182 - Load user.
+INFO 2021-05-17 15:37:47,182 - Set command aliases.
+INFO 2021-05-17 15:37:47,182 - Connect to IRC network.
+INFO 2021-05-17 15:38:06,641 - Format raw IRC message into parsed message.
+INFO 2021-05-17 15:38:06,835 - Attempt execute command: atom
+INFO 2021-05-17 15:38:06,836 - Format raw IRC message into parsed message.
+INFO 2021-05-17 15:38:06,836 - Attempt execute command: atom
+INFO 2021-05-17 15:40:00,380 - Initialize bot.
+INFO 2021-05-17 15:40:00,380 - Load config.
+INFO 2021-05-17 15:40:00,380 - Load user.
+INFO 2021-05-17 15:40:00,380 - Set command aliases.
+INFO 2021-05-17 15:40:00,380 - Connect to IRC network.
+INFO 2021-05-17 15:40:16,045 - Format raw IRC message into parsed message.
+INFO 2021-05-17 15:40:16,294 - Attempt execute command: atom
+INFO 2021-05-17 15:40:16,294 - Format raw IRC message into parsed message.
+INFO 2021-05-17 15:40:16,295 - Attempt execute command: atom
+INFO 2021-05-17 15:45:18,845 - Initialize bot.
+INFO 2021-05-17 15:45:18,845 - Load config.
+INFO 2021-05-17 15:45:18,845 - Load user.
+INFO 2021-05-17 15:45:18,845 - Set command aliases.
+INFO 2021-05-17 15:45:18,845 - Connect to IRC network.
+INFO 2021-05-17 15:45:34,562 - Format raw IRC message into parsed message.
+INFO 2021-05-17 15:45:34,755 - Attempt execute command: atom
+INFO 2021-05-17 15:45:57,978 - Initialize bot.
+INFO 2021-05-17 15:45:57,978 - Load config.
+INFO 2021-05-17 15:45:57,978 - Load user.
+INFO 2021-05-17 15:45:57,979 - Set command aliases.
+INFO 2021-05-17 15:45:57,979 - Connect to IRC network.
+INFO 2021-05-17 15:46:16,072 - Format raw IRC message into parsed message.
+INFO 2021-05-17 15:46:16,319 - Attempt execute command: atom
+INFO 2021-05-17 15:46:16,320 - Format raw IRC message into parsed message.
+INFO 2021-05-17 15:46:16,320 - Attempt execute command: atom
+INFO 2021-05-17 15:48:58,112 - Initialize bot.
+INFO 2021-05-17 15:48:58,112 - Load config.
+INFO 2021-05-17 15:48:58,112 - Load user.
+INFO 2021-05-17 15:48:58,112 - Set command aliases.
+INFO 2021-05-17 15:48:58,112 - Connect to IRC network.
+INFO 2021-05-17 15:49:13,531 - Format raw IRC message into parsed message.
+INFO 2021-05-17 15:49:13,725 - Attempt execute command: atom
+INFO 2021-05-17 15:49:13,725 - Format raw IRC message into parsed message.
+INFO 2021-05-17 15:49:13,725 - Attempt execute command: atom
+INFO 2021-05-17 15:59:02,796 - Initialize bot.
+INFO 2021-05-17 15:59:02,796 - Load config.
+INFO 2021-05-17 15:59:02,796 - Load user.
+INFO 2021-05-17 15:59:02,796 - Set command aliases.
+INFO 2021-05-17 15:59:02,796 - Connect to IRC network.
+INFO 2021-05-17 15:59:19,561 - Format raw IRC message into parsed message.
+INFO 2021-05-17 15:59:19,803 - Attempt execute command: atom
+INFO 2021-05-17 15:59:19,804 - Format raw IRC message into parsed message.
+INFO 2021-05-17 15:59:19,804 - Attempt execute command: atom
+INFO 2021-05-17 16:02:00,434 - Initialize bot.
+INFO 2021-05-17 16:02:00,434 - Load config.
+INFO 2021-05-17 16:02:00,434 - Load user.
+INFO 2021-05-17 16:02:00,434 - Set command aliases.
+INFO 2021-05-17 16:02:00,434 - Connect to IRC network.
+INFO 2021-05-17 16:02:15,233 - Format raw IRC message into parsed message.
+INFO 2021-05-17 16:02:15,441 - Attempt execute command: atom
+INFO 2021-05-17 16:02:15,442 - Format raw IRC message into parsed message.
+INFO 2021-05-17 16:02:15,442 - Attempt execute command: atom
+INFO 2021-05-17 16:05:48,075 - Initialize bot.
+INFO 2021-05-17 16:05:48,075 - Load config.
+INFO 2021-05-17 16:05:48,075 - Load user.
+INFO 2021-05-17 16:05:48,075 - Set command aliases.
+INFO 2021-05-17 16:05:48,076 - Connect to IRC network.
+INFO 2021-05-17 16:06:03,786 - Format raw IRC message into parsed message.
+INFO 2021-05-17 16:06:04,049 - Attempt execute command: atom
+INFO 2021-05-17 16:06:04,049 - Format raw IRC message into parsed message.
+INFO 2021-05-17 16:06:04,049 - Attempt execute command: atom
+INFO 2021-05-17 16:07:22,167 - Initialize bot.
+INFO 2021-05-17 16:07:22,168 - Load config.
+INFO 2021-05-17 16:07:22,168 - Load user.
+INFO 2021-05-17 16:07:22,168 - Set command aliases.
+INFO 2021-05-17 16:07:22,168 - Connect to IRC network.
+INFO 2021-05-17 16:07:38,745 - Format raw IRC message into parsed message.
+INFO 2021-05-17 16:07:38,942 - Attempt execute command: atom
+INFO 2021-05-17 16:07:38,942 - Format raw IRC message into parsed message.
+INFO 2021-05-17 16:07:38,953 - Attempt execute command: atom
+INFO 2021-05-17 16:08:22,914 - Initialize bot.
+INFO 2021-05-17 16:08:22,914 - Load config.
+INFO 2021-05-17 16:08:22,914 - Load user.
+INFO 2021-05-17 16:08:22,914 - Set command aliases.
+INFO 2021-05-17 16:08:22,914 - Connect to IRC network.
+INFO 2021-05-17 16:08:40,048 - Format raw IRC message into parsed message.
+INFO 2021-05-17 16:08:40,300 - Attempt execute command: atom
+INFO 2021-05-17 16:08:40,300 - Format raw IRC message into parsed message.
+INFO 2021-05-17 16:08:40,300 - Attempt execute command: atom
+INFO 2021-05-17 16:09:59,728 - Initialize bot.
+INFO 2021-05-17 16:09:59,728 - Load config.
+INFO 2021-05-17 16:09:59,728 - Load user.
+INFO 2021-05-17 16:09:59,728 - Set command aliases.
+INFO 2021-05-17 16:09:59,728 - Connect to IRC network.
+INFO 2021-05-17 16:10:13,491 - Format raw IRC message into parsed message.
+INFO 2021-05-17 16:10:13,736 - Attempt execute command: atom
+INFO 2021-05-17 16:10:13,737 - Format raw IRC message into parsed message.
+INFO 2021-05-17 16:10:13,737 - Attempt execute command: atom
+INFO 2021-05-17 16:12:55,825 - Initialize bot.
+INFO 2021-05-17 16:12:55,825 - Load config.
+INFO 2021-05-17 16:12:55,825 - Load user.
+INFO 2021-05-17 16:12:55,825 - Set command aliases.
+INFO 2021-05-17 16:12:55,825 - Connect to IRC network.
+INFO 2021-05-17 16:13:14,484 - Format raw IRC message into parsed message.
+INFO 2021-05-17 16:13:14,677 - Attempt execute command: atom
+INFO 2021-05-17 16:13:14,677 - Format raw IRC message into parsed message.
+INFO 2021-05-17 16:13:14,677 - Attempt execute command: atom
+INFO 2021-05-17 16:14:57,525 - Initialize bot.
+INFO 2021-05-17 16:14:57,525 - Load config.
+INFO 2021-05-17 16:14:57,525 - Load user.
+INFO 2021-05-17 16:14:57,525 - Set command aliases.
+INFO 2021-05-17 16:14:57,525 - Connect to IRC network.
+INFO 2021-05-17 16:15:24,405 - Initialize bot.
+INFO 2021-05-17 16:15:24,405 - Load config.
+INFO 2021-05-17 16:15:24,405 - Load user.
+INFO 2021-05-17 16:15:24,405 - Set command aliases.
+INFO 2021-05-17 16:15:24,405 - Connect to IRC network.
+INFO 2021-05-17 16:15:38,666 - Format raw IRC message into parsed message.
+INFO 2021-05-17 16:15:38,912 - Attempt execute command: atom
+INFO 2021-05-17 16:15:38,912 - Format raw IRC message into parsed message.
+INFO 2021-05-17 16:15:38,912 - Attempt execute command: atom
+INFO 2021-05-17 16:19:33,388 - Initialize bot.
+INFO 2021-05-17 16:19:33,389 - Load config.
+INFO 2021-05-17 16:19:33,389 - Load user.
+INFO 2021-05-17 16:19:33,389 - Set command aliases.
+INFO 2021-05-17 16:19:33,389 - Connect to IRC network.
+INFO 2021-05-17 16:19:52,500 - Format raw IRC message into parsed message.
+INFO 2021-05-17 16:19:52,699 - Attempt execute command: atom
+INFO 2021-05-17 16:19:52,699 - Format raw IRC message into parsed message.
+INFO 2021-05-17 16:19:52,700 - Attempt execute command: atom
+INFO 2021-05-17 16:22:06,083 - Initialize bot.
+INFO 2021-05-17 16:22:06,083 - Load config.
+INFO 2021-05-17 16:22:06,083 - Load user.
+INFO 2021-05-17 16:22:06,083 - Set command aliases.
+INFO 2021-05-17 16:22:06,083 - Connect to IRC network.
+INFO 2021-05-17 16:22:22,867 - Format raw IRC message into parsed message.
+INFO 2021-05-17 16:22:23,134 - Attempt execute command: atom
+INFO 2021-05-17 16:22:23,134 - Format raw IRC message into parsed message.
+INFO 2021-05-17 16:22:23,135 - Attempt execute command: atom
+INFO 2021-05-17 16:24:57,396 - Initialize bot.
+INFO 2021-05-17 16:24:57,397 - Load config.
+INFO 2021-05-17 16:24:57,397 - Load user.
+INFO 2021-05-17 16:24:57,397 - Set command aliases.
+INFO 2021-05-17 16:24:57,397 - Connect to IRC network.
+INFO 2021-05-17 16:25:16,015 - Format raw IRC message into parsed message.
+INFO 2021-05-17 16:25:16,213 - Attempt execute command: atom
+INFO 2021-05-17 16:25:16,213 - Format raw IRC message into parsed message.
+INFO 2021-05-17 16:25:16,213 - Attempt execute command: atom
+INFO 2021-05-17 16:27:09,569 - Initialize bot.
+INFO 2021-05-17 16:27:09,569 - Load config.
+INFO 2021-05-17 16:27:09,569 - Load user.
+INFO 2021-05-17 16:27:09,569 - Set command aliases.
+INFO 2021-05-17 16:27:09,570 - Connect to IRC network.
+INFO 2021-05-17 16:30:20,894 - Format raw IRC message into parsed message.
+INFO 2021-05-17 16:30:21,163 - Attempt execute command: atom
+INFO 2021-05-17 16:30:21,164 - Format raw IRC message into parsed message.
+INFO 2021-05-17 16:30:21,164 - Attempt execute command: atom
+INFO 2021-05-17 16:31:46,900 - Initialize bot.
+INFO 2021-05-17 16:31:46,900 - Load config.
+INFO 2021-05-17 16:31:46,900 - Load user.
+INFO 2021-05-17 16:31:46,900 - Set command aliases.
+INFO 2021-05-17 16:31:46,900 - Connect to IRC network.
+INFO 2021-05-17 16:37:38,194 - Initialize bot.
+INFO 2021-05-17 16:37:38,194 - Load config.
+INFO 2021-05-17 16:37:38,194 - Load user.
+INFO 2021-05-17 16:37:38,194 - Set command aliases.
+INFO 2021-05-17 16:37:38,194 - Connect to IRC network.
+INFO 2021-05-17 16:38:54,913 - Format raw IRC message into parsed message.
+INFO 2021-05-17 16:38:55,230 - Attempt execute command: atom
+INFO 2021-05-17 16:38:55,230 - Format raw IRC message into parsed message.
+INFO 2021-05-17 16:38:55,230 - Attempt execute command: atom
+INFO 2021-05-17 16:45:51,396 - Initialize bot.
+INFO 2021-05-17 16:45:51,397 - Load config.
+INFO 2021-05-17 16:45:51,397 - Load user.
+INFO 2021-05-17 16:45:51,397 - Set command aliases.
+INFO 2021-05-17 16:45:51,397 - Connect to IRC network.
+INFO 2021-05-17 16:46:48,921 - Format raw IRC message into parsed message.
+INFO 2021-05-17 16:46:49,127 - Attempt execute command: atom
+INFO 2021-05-17 16:47:19,157 - Format raw IRC message into parsed message.
+INFO 2021-05-17 16:47:19,157 - Attempt execute command: atom
+INFO 2021-05-17 17:14:29,582 - Initialize bot.
+INFO 2021-05-17 17:14:29,582 - Load config.
+INFO 2021-05-17 17:14:29,582 - Load user.
+INFO 2021-05-17 17:14:29,582 - Set command aliases.
+INFO 2021-05-17 17:14:29,582 - Connect to IRC network.
+INFO 2021-05-17 17:14:50,415 - Format raw IRC message into parsed message.
+INFO 2021-05-17 17:14:50,662 - Attempt execute command: atom
+INFO 2021-05-17 17:15:20,693 - Format raw IRC message into parsed message.
+INFO 2021-05-17 17:15:20,693 - Attempt execute command: atom
+INFO 2021-05-17 17:17:01,274 - Initialize bot.
+INFO 2021-05-17 17:17:01,274 - Load config.
+INFO 2021-05-17 17:17:01,274 - Load user.
+INFO 2021-05-17 17:17:01,274 - Set command aliases.
+INFO 2021-05-17 17:17:01,274 - Connect to IRC network.
+INFO 2021-05-17 17:17:20,038 - Format raw IRC message into parsed message.
+INFO 2021-05-17 17:17:20,242 - Attempt execute command: atom
+INFO 2021-05-17 17:17:21,243 - Format raw IRC message into parsed message.
+INFO 2021-05-17 17:17:21,243 - Attempt execute command: atom
+INFO 2021-05-17 19:23:00,520 - Initialize bot.
+INFO 2021-05-17 19:23:00,520 - Load config.
+INFO 2021-05-17 19:23:00,520 - Load user.
+INFO 2021-05-17 19:23:00,520 - Set command aliases.
+INFO 2021-05-17 19:23:00,520 - Connect to IRC network.
+INFO 2021-05-17 19:28:22,688 - Initialize bot.
+INFO 2021-05-17 19:28:22,688 - Load config.
+INFO 2021-05-17 19:28:22,688 - Load user.
+INFO 2021-05-17 19:28:22,689 - Set command aliases.
+INFO 2021-05-17 19:28:22,689 - Connect to IRC network.
+INFO 2021-05-17 19:28:37,964 - Format raw IRC message into parsed message.
+INFO 2021-05-17 19:28:38,430 - Attempt execute command: atom
+INFO 2021-05-17 19:29:24,345 - Initialize bot.
+INFO 2021-05-17 19:29:24,346 - Load config.
+INFO 2021-05-17 19:29:24,346 - Load user.
+INFO 2021-05-17 19:29:24,346 - Set command aliases.
+INFO 2021-05-17 19:29:24,346 - Connect to IRC network.
+INFO 2021-05-17 19:29:44,223 - Format raw IRC message into parsed message.
+INFO 2021-05-17 19:29:44,419 - Attempt execute command: atom
+INFO 2021-05-17 19:31:43,261 - Initialize bot.
+INFO 2021-05-17 19:31:43,261 - Load config.
+INFO 2021-05-17 19:31:43,261 - Load user.
+INFO 2021-05-17 19:31:43,261 - Set command aliases.
+INFO 2021-05-17 19:31:43,261 - Connect to IRC network.
+INFO 2021-05-17 19:32:02,677 - Format raw IRC message into parsed message.
+INFO 2021-05-17 19:32:02,873 - Attempt execute command: atom
+INFO 2021-05-17 19:32:28,772 - Initialize bot.
+INFO 2021-05-17 19:32:28,772 - Load config.
+INFO 2021-05-17 19:32:28,772 - Load user.
+INFO 2021-05-17 19:32:28,773 - Set command aliases.
+INFO 2021-05-17 19:32:28,773 - Connect to IRC network.
+INFO 2021-05-17 19:32:47,947 - Format raw IRC message into parsed message.
+INFO 2021-05-17 19:32:48,199 - Attempt execute command: atom
+INFO 2021-05-17 19:34:56,187 - Initialize bot.
+INFO 2021-05-17 19:34:56,188 - Load config.
+INFO 2021-05-17 19:34:56,188 - Load user.
+INFO 2021-05-17 19:34:56,188 - Set command aliases.
+INFO 2021-05-17 19:34:56,188 - Connect to IRC network.
+INFO 2021-05-17 19:36:28,466 - Initialize bot.
+INFO 2021-05-17 19:36:28,467 - Load config.
+INFO 2021-05-17 19:36:28,467 - Load user.
+INFO 2021-05-17 19:36:28,467 - Set command aliases.
+INFO 2021-05-17 19:36:28,467 - Connect to IRC network.
+INFO 2021-05-17 19:36:44,786 - Format raw IRC message into parsed message.
+INFO 2021-05-17 19:36:44,984 - Attempt execute command: atom
+INFO 2021-05-17 19:38:46,019 - Initialize bot.
+INFO 2021-05-17 19:38:46,019 - Load config.
+INFO 2021-05-17 19:38:46,019 - Load user.
+INFO 2021-05-17 19:38:46,019 - Set command aliases.
+INFO 2021-05-17 19:38:46,019 - Connect to IRC network.
+INFO 2021-05-17 19:39:07,202 - Format raw IRC message into parsed message.
+INFO 2021-05-17 19:39:07,454 - Attempt execute command: atom
+INFO 2021-05-17 19:43:09,416 - Initialize bot.
+INFO 2021-05-17 19:43:09,416 - Load config.
+INFO 2021-05-17 19:43:09,416 - Load user.
+INFO 2021-05-17 19:43:09,416 - Set command aliases.
+INFO 2021-05-17 19:43:09,416 - Connect to IRC network.
+INFO 2021-05-17 19:43:25,878 - Format raw IRC message into parsed message.
+INFO 2021-05-17 19:43:26,126 - Attempt execute command: atom
+INFO 2021-05-17 19:44:15,751 - Initialize bot.
+INFO 2021-05-17 19:44:15,751 - Load config.
+INFO 2021-05-17 19:44:15,752 - Load user.
+INFO 2021-05-17 19:44:15,752 - Set command aliases.
+INFO 2021-05-17 19:44:15,752 - Connect to IRC network.
+INFO 2021-05-17 19:44:30,466 - Format raw IRC message into parsed message.
+INFO 2021-05-17 19:48:39,431 - Initialize bot.
+INFO 2021-05-17 19:48:39,431 - Load config.
+INFO 2021-05-17 19:48:39,431 - Load user.
+INFO 2021-05-17 19:48:39,432 - Set command aliases.
+INFO 2021-05-17 19:48:39,432 - Connect to IRC network.
+INFO 2021-05-17 19:48:54,692 - Format raw IRC message into parsed message.
+INFO 2021-05-17 19:48:54,941 - Attempt execute command: atom
+INFO 2021-05-17 19:49:14,550 - Initialize bot.
+INFO 2021-05-17 19:49:14,550 - Load config.
+INFO 2021-05-17 19:49:14,550 - Load user.
+INFO 2021-05-17 19:49:14,550 - Set command aliases.
+INFO 2021-05-17 19:49:14,550 - Connect to IRC network.
+INFO 2021-05-17 19:49:31,119 - Format raw IRC message into parsed message.
+INFO 2021-05-17 19:49:31,314 - Attempt execute command: atom
+INFO 2021-05-17 19:51:09,069 - Initialize bot.
+INFO 2021-05-17 19:51:09,070 - Load config.
+INFO 2021-05-17 19:51:09,070 - Load user.
+INFO 2021-05-17 19:51:09,070 - Set command aliases.
+INFO 2021-05-17 19:51:09,070 - Connect to IRC network.
+INFO 2021-05-17 19:51:39,693 - Initialize bot.
+INFO 2021-05-17 19:51:39,693 - Load config.
+INFO 2021-05-17 19:51:39,693 - Load user.
+INFO 2021-05-17 19:51:39,693 - Set command aliases.
+INFO 2021-05-17 19:51:39,693 - Connect to IRC network.
+INFO 2021-05-17 19:51:59,397 - Format raw IRC message into parsed message.
+INFO 2021-05-17 19:51:59,640 - Attempt execute command: atom
+INFO 2021-05-17 19:51:59,641 - Format raw IRC message into parsed message.
+INFO 2021-05-17 19:51:59,641 - Attempt execute command: atom
+INFO 2021-05-17 19:54:18,179 - Initialize bot.
+INFO 2021-05-17 19:54:18,180 - Load config.
+INFO 2021-05-17 19:54:18,180 - Load user.
+INFO 2021-05-17 19:54:18,180 - Set command aliases.
+INFO 2021-05-17 19:54:18,180 - Connect to IRC network.
+INFO 2021-05-17 19:54:33,721 - Format raw IRC message into parsed message.
+INFO 2021-05-17 19:54:33,971 - Attempt execute command: atom
+INFO 2021-05-17 19:54:55,820 - Initialize bot.
+INFO 2021-05-17 19:54:55,820 - Load config.
+INFO 2021-05-17 19:54:55,820 - Load user.
+INFO 2021-05-17 19:54:55,820 - Set command aliases.
+INFO 2021-05-17 19:54:55,820 - Connect to IRC network.
+INFO 2021-05-17 19:55:14,621 - Format raw IRC message into parsed message.
+INFO 2021-05-17 19:55:14,818 - Attempt execute command: atom
+INFO 2021-05-17 19:55:14,818 - Format raw IRC message into parsed message.
+INFO 2021-05-17 19:55:14,818 - Attempt execute command: atom
+INFO 2021-05-17 19:56:29,779 - Initialize bot.
+INFO 2021-05-17 19:56:29,779 - Load config.
+INFO 2021-05-17 19:56:29,779 - Load user.
+INFO 2021-05-17 19:56:29,779 - Set command aliases.
+INFO 2021-05-17 19:56:29,779 - Connect to IRC network.
+INFO 2021-05-17 19:56:49,824 - Format raw IRC message into parsed message.
+INFO 2021-05-17 19:56:50,067 - Attempt execute command: atom
+INFO 2021-05-17 19:56:50,067 - Format raw IRC message into parsed message.
+INFO 2021-05-17 19:56:50,068 - Attempt execute command: atom
+INFO 2021-05-17 19:59:31,678 - Initialize bot.
+INFO 2021-05-17 19:59:31,678 - Load config.
+INFO 2021-05-17 19:59:31,678 - Load user.
+INFO 2021-05-17 19:59:31,678 - Set command aliases.
+INFO 2021-05-17 19:59:31,678 - Connect to IRC network.
+INFO 2021-05-17 19:59:52,142 - Format raw IRC message into parsed message.
+INFO 2021-05-17 19:59:52,399 - Attempt execute command: atom
+INFO 2021-05-17 19:59:52,400 - Format raw IRC message into parsed message.
+INFO 2021-05-17 19:59:52,400 - Attempt execute command: atom
+INFO 2021-05-17 20:02:51,392 - Initialize bot.
+INFO 2021-05-17 20:02:51,392 - Load config.
+INFO 2021-05-17 20:02:51,392 - Load user.
+INFO 2021-05-17 20:02:51,392 - Set command aliases.
+INFO 2021-05-17 20:02:51,392 - Connect to IRC network.
+INFO 2021-05-17 20:03:10,820 - Format raw IRC message into parsed message.
+INFO 2021-05-17 20:03:11,066 - Attempt execute command: atom
+INFO 2021-05-17 20:03:11,067 - Format raw IRC message into parsed message.
+INFO 2021-05-17 20:03:11,067 - Attempt execute command: atom
+INFO 2021-05-17 20:07:51,387 - Initialize bot.
+INFO 2021-05-17 20:07:51,387 - Load config.
+INFO 2021-05-17 20:07:51,387 - Load user.
+INFO 2021-05-17 20:07:51,387 - Set command aliases.
+INFO 2021-05-17 20:07:51,388 - Connect to IRC network.
+INFO 2021-05-17 20:08:09,484 - Format raw IRC message into parsed message.
+INFO 2021-05-17 20:08:09,678 - Attempt execute command: atom
+INFO 2021-05-17 20:08:09,679 - Format raw IRC message into parsed message.
+INFO 2021-05-17 20:08:09,679 - Attempt execute command: atom
+INFO 2021-05-17 20:09:22,815 - Initialize bot.
+INFO 2021-05-17 20:09:22,815 - Load config.
+INFO 2021-05-17 20:09:22,816 - Load user.
+INFO 2021-05-17 20:09:22,816 - Set command aliases.
+INFO 2021-05-17 20:09:22,816 - Connect to IRC network.
+INFO 2021-05-17 20:09:44,375 - Format raw IRC message into parsed message.
+INFO 2021-05-17 20:09:44,642 - Attempt execute command: atom
+INFO 2021-05-17 20:09:44,643 - Format raw IRC message into parsed message.
+INFO 2021-05-17 20:09:44,643 - Attempt execute command: atom
+INFO 2021-05-17 20:12:53,337 - Initialize bot.
+INFO 2021-05-17 20:12:53,337 - Load config.
+INFO 2021-05-17 20:12:53,337 - Load user.
+INFO 2021-05-17 20:12:53,337 - Set command aliases.
+INFO 2021-05-17 20:12:53,337 - Connect to IRC network.
+INFO 2021-05-17 20:13:10,052 - Format raw IRC message into parsed message.
+INFO 2021-05-17 20:13:10,304 - Attempt execute command: atom
+INFO 2021-05-17 20:13:10,304 - Format raw IRC message into parsed message.
+INFO 2021-05-17 20:13:10,304 - Attempt execute command: atom
+INFO 2021-05-17 20:20:28,018 - Initialize bot.
+INFO 2021-05-17 20:20:28,018 - Load config.
+INFO 2021-05-17 20:20:28,018 - Load user.
+INFO 2021-05-17 20:20:28,018 - Set command aliases.
+INFO 2021-05-17 20:20:28,019 - Connect to IRC network.
+INFO 2021-05-17 20:20:53,373 - Format raw IRC message into parsed message.
+INFO 2021-05-17 20:20:53,576 - Attempt execute command: atom
+INFO 2021-05-17 20:20:53,577 - Format raw IRC message into parsed message.
+INFO 2021-05-17 20:20:53,577 - Attempt execute command: atom
+INFO 2021-05-17 20:27:59,552 - Initialize bot.
+INFO 2021-05-17 20:27:59,552 - Load config.
+INFO 2021-05-17 20:27:59,552 - Load user.
+INFO 2021-05-17 20:27:59,552 - Set command aliases.
+INFO 2021-05-17 20:27:59,552 - Connect to IRC network.
+INFO 2021-05-17 20:28:15,361 - Format raw IRC message into parsed message.
+INFO 2021-05-17 20:28:15,615 - Attempt execute command: atom
+INFO 2021-05-17 20:28:15,616 - Format raw IRC message into parsed message.
+INFO 2021-05-17 20:28:15,616 - Attempt execute command: atom
+INFO 2021-05-17 20:30:10,249 - Initialize bot.
+INFO 2021-05-17 20:30:10,249 - Load config.
+INFO 2021-05-17 20:30:10,249 - Load user.
+INFO 2021-05-17 20:30:10,249 - Set command aliases.
+INFO 2021-05-17 20:30:10,249 - Connect to IRC network.
+INFO 2021-05-17 20:30:25,608 - Format raw IRC message into parsed message.
+INFO 2021-05-17 20:30:25,875 - Attempt execute command: atom
+INFO 2021-05-17 20:30:25,876 - Format raw IRC message into parsed message.
+INFO 2021-05-17 20:30:25,876 - Attempt execute command: atom
+INFO 2021-05-17 20:32:12,293 - Initialize bot.
+INFO 2021-05-17 20:32:12,293 - Load config.
+INFO 2021-05-17 20:32:12,293 - Load user.
+INFO 2021-05-17 20:32:12,293 - Set command aliases.
+INFO 2021-05-17 20:32:12,293 - Connect to IRC network.
+INFO 2021-05-17 20:32:40,934 - Format raw IRC message into parsed message.
+INFO 2021-05-17 20:32:41,131 - Attempt execute command: atom
+INFO 2021-05-17 20:32:41,131 - Format raw IRC message into parsed message.
+INFO 2021-05-17 20:32:41,131 - Attempt execute command: atom
+INFO 2021-05-17 20:42:14,771 - Initialize bot.
+INFO 2021-05-17 20:42:14,771 - Load config.
+INFO 2021-05-17 20:42:14,771 - Load user.
+INFO 2021-05-17 20:42:14,771 - Set command aliases.
+INFO 2021-05-17 20:42:14,771 - Connect to IRC network.
+INFO 2021-05-17 20:42:29,484 - Format raw IRC message into parsed message.
+INFO 2021-05-17 20:42:29,683 - Attempt execute command: atom
+INFO 2021-05-17 20:42:29,683 - Format raw IRC message into parsed message.
+INFO 2021-05-17 20:42:29,683 - Attempt execute command: atom
+INFO 2021-05-17 20:43:48,126 - Initialize bot.
+INFO 2021-05-17 20:43:48,126 - Load config.
+INFO 2021-05-17 20:43:48,126 - Load user.
+INFO 2021-05-17 20:43:48,126 - Set command aliases.
+INFO 2021-05-17 20:43:48,126 - Connect to IRC network.
+INFO 2021-05-17 20:44:04,884 - Format raw IRC message into parsed message.
+INFO 2021-05-17 20:44:05,127 - Attempt execute command: atom
+INFO 2021-05-17 20:44:05,127 - Format raw IRC message into parsed message.
+INFO 2021-05-17 20:44:05,127 - Attempt execute command: atom
+INFO 2021-05-17 20:46:43,311 - Initialize bot.
+INFO 2021-05-17 20:46:43,311 - Load config.
+INFO 2021-05-17 20:46:43,311 - Load user.
+INFO 2021-05-17 20:46:43,311 - Set command aliases.
+INFO 2021-05-17 20:46:43,311 - Connect to IRC network.
+INFO 2021-05-17 20:46:57,822 - Format raw IRC message into parsed message.
+INFO 2021-05-17 20:46:58,014 - Attempt execute command: atom
+INFO 2021-05-17 20:46:58,014 - Format raw IRC message into parsed message.
+INFO 2021-05-17 20:46:58,014 - Attempt execute command: atom
+INFO 2021-05-17 20:48:00,062 - Initialize bot.
+INFO 2021-05-17 20:48:00,062 - Load config.
+INFO 2021-05-17 20:48:00,062 - Load user.
+INFO 2021-05-17 20:48:00,063 - Set command aliases.
+INFO 2021-05-17 20:48:00,063 - Connect to IRC network.
+INFO 2021-05-17 20:48:15,117 - Format raw IRC message into parsed message.
+INFO 2021-05-17 20:48:15,314 - Attempt execute command: atom
+INFO 2021-05-17 20:48:15,314 - Format raw IRC message into parsed message.
+INFO 2021-05-17 20:48:15,314 - Attempt execute command: atom
+INFO 2021-05-17 20:53:44,156 - Initialize bot.
+INFO 2021-05-17 20:53:44,156 - Load config.
+INFO 2021-05-17 20:53:44,156 - Load user.
+INFO 2021-05-17 20:53:44,156 - Set command aliases.
+INFO 2021-05-17 20:53:44,156 - Connect to IRC network.
+INFO 2021-05-17 20:54:01,991 - Format raw IRC message into parsed message.
+INFO 2021-05-17 20:54:02,241 - Attempt execute command: atom
+INFO 2021-05-17 21:05:07,493 - Initialize bot.
+INFO 2021-05-17 21:05:07,493 - Load config.
+INFO 2021-05-17 21:05:07,493 - Load user.
+INFO 2021-05-17 21:05:07,493 - Set command aliases.
+INFO 2021-05-17 21:05:07,493 - Connect to IRC network.
+INFO 2021-05-17 21:05:25,099 - Format raw IRC message into parsed message.
+INFO 2021-05-17 21:05:25,316 - Attempt execute command: atom
+INFO 2021-05-17 21:05:25,316 - Format raw IRC message into parsed message.
+INFO 2021-05-17 21:05:25,316 - Attempt execute command: atom
+INFO 2021-05-17 21:06:19,278 - Initialize bot.
+INFO 2021-05-17 21:06:19,278 - Load config.
+INFO 2021-05-17 21:06:19,278 - Load user.
+INFO 2021-05-17 21:06:19,278 - Set command aliases.
+INFO 2021-05-17 21:06:19,278 - Connect to IRC network.
+INFO 2021-05-17 21:06:39,849 - Format raw IRC message into parsed message.
+INFO 2021-05-17 21:06:40,070 - Attempt execute command: atom
+INFO 2021-05-17 21:06:40,070 - Format raw IRC message into parsed message.
+INFO 2021-05-17 21:06:40,070 - Attempt execute command: atom
+INFO 2021-05-17 21:07:49,182 - Initialize bot.
+INFO 2021-05-17 21:07:49,182 - Load config.
+INFO 2021-05-17 21:07:49,182 - Load user.
+INFO 2021-05-17 21:07:49,182 - Set command aliases.
+INFO 2021-05-17 21:07:49,182 - Connect to IRC network.
+INFO 2021-05-17 21:08:09,249 - Format raw IRC message into parsed message.
+INFO 2021-05-17 21:08:09,497 - Attempt execute command: atom
+INFO 2021-05-17 21:08:09,497 - Format raw IRC message into parsed message.
+INFO 2021-05-17 21:08:09,497 - Attempt execute command: atom
+INFO 2021-05-17 21:10:34,320 - Initialize bot.
+INFO 2021-05-17 21:10:34,320 - Load config.
+INFO 2021-05-17 21:10:34,320 - Load user.
+INFO 2021-05-17 21:10:34,320 - Set command aliases.
+INFO 2021-05-17 21:10:34,320 - Connect to IRC network.
+INFO 2021-05-17 21:10:50,741 - Format raw IRC message into parsed message.
+INFO 2021-05-17 21:10:50,941 - Attempt execute command: atom
+INFO 2021-05-17 21:10:55,946 - Format raw IRC message into parsed message.
+INFO 2021-05-17 21:10:55,946 - Attempt execute command: atom
+INFO 2021-05-17 21:15:53,337 - Initialize bot.
+INFO 2021-05-17 21:15:53,337 - Load config.
+INFO 2021-05-17 21:15:53,337 - Load user.
+INFO 2021-05-17 21:15:53,337 - Set command aliases.
+INFO 2021-05-17 21:15:53,337 - Connect to IRC network.
+INFO 2021-05-17 21:16:52,633 - Format raw IRC message into parsed message.
+INFO 2021-05-17 21:16:52,911 - Attempt execute command: atom
+INFO 2021-05-17 21:16:52,911 - Format raw IRC message into parsed message.
+INFO 2021-05-17 21:16:52,911 - Attempt execute command: atom
+INFO 2021-05-17 21:20:03,998 - Initialize bot.
+INFO 2021-05-17 21:20:03,998 - Load config.
+INFO 2021-05-17 21:20:03,998 - Load user.
+INFO 2021-05-17 21:20:03,999 - Set command aliases.
+INFO 2021-05-17 21:20:03,999 - Connect to IRC network.
+INFO 2021-05-17 21:20:26,354 - Format raw IRC message into parsed message.
+INFO 2021-05-17 21:20:26,608 - Attempt execute command: atom
+INFO 2021-05-17 21:20:26,608 - Format raw IRC message into parsed message.
+INFO 2021-05-17 21:20:26,622 - Attempt execute command: atom
+INFO 2021-05-17 21:24:55,919 - Initialize bot.
+INFO 2021-05-17 21:24:55,919 - Load config.
+INFO 2021-05-17 21:24:55,919 - Load user.
+INFO 2021-05-17 21:24:55,919 - Set command aliases.
+INFO 2021-05-17 21:24:55,919 - Connect to IRC network.
+INFO 2021-05-17 21:25:13,791 - Format raw IRC message into parsed message.
+INFO 2021-05-17 21:25:13,986 - Attempt execute command: atom
+INFO 2021-05-17 21:25:13,987 - Format raw IRC message into parsed message.
+INFO 2021-05-17 21:25:13,987 - Attempt execute command: atom
+INFO 2021-05-17 21:29:55,402 - Initialize bot.
+INFO 2021-05-17 21:29:55,402 - Load config.
+INFO 2021-05-17 21:29:55,402 - Load user.
+INFO 2021-05-17 21:29:55,402 - Set command aliases.
+INFO 2021-05-17 21:29:55,402 - Connect to IRC network.
+INFO 2021-05-17 21:30:13,275 - Format raw IRC message into parsed message.
+INFO 2021-05-17 21:30:13,470 - Attempt execute command: atom
+INFO 2021-05-17 21:30:13,470 - Format raw IRC message into parsed message.
+INFO 2021-05-17 21:30:13,470 - Attempt execute command: atom
+INFO 2021-05-17 21:37:31,431 - Initialize bot.
+INFO 2021-05-17 21:37:31,431 - Load config.
+INFO 2021-05-17 21:37:31,431 - Load user.
+INFO 2021-05-17 21:37:31,431 - Set command aliases.
+INFO 2021-05-17 21:37:31,431 - Connect to IRC network.
+INFO 2021-05-17 21:37:48,956 - Format raw IRC message into parsed message.
+INFO 2021-05-17 21:37:49,206 - Attempt execute command: atom
+INFO 2021-05-17 21:40:29,244 - Initialize bot.
+INFO 2021-05-17 21:40:29,245 - Load config.
+INFO 2021-05-17 21:40:29,245 - Load user.
+INFO 2021-05-17 21:40:29,245 - Set command aliases.
+INFO 2021-05-17 21:40:29,245 - Connect to IRC network.
+INFO 2021-05-17 21:40:52,845 - Format raw IRC message into parsed message.
+INFO 2021-05-17 21:40:53,092 - Attempt execute command: atom
+INFO 2021-05-17 21:43:42,106 - Initialize bot.
+INFO 2021-05-17 21:43:42,106 - Load config.
+INFO 2021-05-17 21:43:42,107 - Load user.
+INFO 2021-05-17 21:43:42,107 - Set command aliases.
+INFO 2021-05-17 21:43:42,107 - Connect to IRC network.
+INFO 2021-05-17 21:43:59,815 - Format raw IRC message into parsed message.
+INFO 2021-05-17 21:44:00,072 - Attempt execute command: atom
+INFO 2021-05-18 12:25:55,231 - Initialize bot.
+INFO 2021-05-18 12:25:55,248 - Load config.
+INFO 2021-05-18 12:25:55,264 - Load user.
+INFO 2021-05-18 12:25:55,264 - Set command aliases.
+INFO 2021-05-18 12:25:55,264 - Connect to IRC network.
+INFO 2021-05-18 12:26:14,127 - Format raw IRC message into parsed message.
+INFO 2021-05-18 12:26:14,127 - Attempt execute command: atom
+INFO 2021-05-18 12:28:50,513 - Initialize bot.
+INFO 2021-05-18 12:28:50,513 - Load config.
+INFO 2021-05-18 12:28:50,513 - Load user.
+INFO 2021-05-18 12:28:50,513 - Set command aliases.
+INFO 2021-05-18 12:28:50,513 - Connect to IRC network.
+INFO 2021-05-18 12:29:10,019 - Format raw IRC message into parsed message.
+INFO 2021-05-18 12:29:10,019 - Attempt execute command: atom
+INFO 2021-05-18 12:34:50,102 - Initialize bot.
+INFO 2021-05-18 12:34:50,103 - Load config.
+INFO 2021-05-18 12:34:50,103 - Load user.
+INFO 2021-05-18 12:34:50,103 - Set command aliases.
+INFO 2021-05-18 12:34:50,103 - Connect to IRC network.
+INFO 2021-05-18 12:35:07,536 - Format raw IRC message into parsed message.
+INFO 2021-05-18 12:35:07,536 - Attempt execute command: atom
+INFO 2021-05-18 12:35:33,885 - Initialize bot.
+INFO 2021-05-18 12:35:33,885 - Load config.
+INFO 2021-05-18 12:35:33,885 - Load user.
+INFO 2021-05-18 12:35:33,885 - Set command aliases.
+INFO 2021-05-18 12:35:33,885 - Connect to IRC network.
+INFO 2021-05-18 12:35:53,285 - Format raw IRC message into parsed message.
+INFO 2021-05-18 12:35:53,285 - Attempt execute command: atom
+INFO 2021-05-18 12:37:38,154 - Initialize bot.
+INFO 2021-05-18 12:37:38,154 - Load config.
+INFO 2021-05-18 12:37:38,154 - Load user.
+INFO 2021-05-18 12:37:38,154 - Set command aliases.
+INFO 2021-05-18 12:37:38,154 - Connect to IRC network.
+INFO 2021-05-18 12:37:57,868 - Format raw IRC message into parsed message.
+INFO 2021-05-18 12:38:43,608 - Initialize bot.
+INFO 2021-05-18 12:38:43,608 - Load config.
+INFO 2021-05-18 12:38:43,608 - Load user.
+INFO 2021-05-18 12:38:43,608 - Set command aliases.
+INFO 2021-05-18 12:38:43,608 - Connect to IRC network.
+INFO 2021-05-18 12:39:02,173 - Format raw IRC message into parsed message.
+INFO 2021-05-18 12:39:02,214 - Initialize bot.
+INFO 2021-05-18 12:39:02,214 - Load config.
+INFO 2021-05-18 12:39:02,214 - Load user.
+INFO 2021-05-18 12:39:02,214 - Set command aliases.
+INFO 2021-05-18 12:39:02,214 - Connect to IRC network.
+INFO 2021-05-18 12:40:19,885 - Initialize bot.
+INFO 2021-05-18 12:40:19,885 - Load config.
+INFO 2021-05-18 12:40:19,885 - Load user.
+INFO 2021-05-18 12:40:19,885 - Set command aliases.
+INFO 2021-05-18 12:40:19,885 - Connect to IRC network.
+INFO 2021-05-18 12:40:36,589 - Format raw IRC message into parsed message.
+INFO 2021-05-18 12:40:36,631 - Initialize bot.
+INFO 2021-05-18 12:40:36,631 - Load config.
+INFO 2021-05-18 12:40:36,631 - Load user.
+INFO 2021-05-18 12:40:36,631 - Set command aliases.
+INFO 2021-05-18 12:40:36,631 - Connect to IRC network.
+INFO 2021-05-18 12:43:33,665 - Initialize bot.
+INFO 2021-05-18 12:43:33,665 - Load config.
+INFO 2021-05-18 12:43:33,665 - Load user.
+INFO 2021-05-18 12:43:33,665 - Set command aliases.
+INFO 2021-05-18 12:43:33,665 - Connect to IRC network.
+INFO 2021-05-18 12:43:51,274 - Format raw IRC message into parsed message.
+INFO 2021-05-18 12:43:51,274 - Attempt execute command: atom
+INFO 2021-05-18 12:51:48,645 - Initialize bot.
+INFO 2021-05-18 12:51:48,645 - Load config.
+INFO 2021-05-18 12:51:48,645 - Load user.
+INFO 2021-05-18 12:51:48,645 - Set command aliases.
+INFO 2021-05-18 12:51:48,645 - Connect to IRC network.
+INFO 2021-05-18 12:52:04,464 - Format raw IRC message into parsed message.
+INFO 2021-05-18 12:52:04,465 - Attempt execute command: atom
+INFO 2021-05-18 12:55:35,352 - Initialize bot.
+INFO 2021-05-18 12:55:35,352 - Load config.
+INFO 2021-05-18 12:55:35,352 - Load user.
+INFO 2021-05-18 12:55:35,352 - Set command aliases.
+INFO 2021-05-18 12:55:35,353 - Connect to IRC network.
+INFO 2021-05-18 12:55:53,721 - Format raw IRC message into parsed message.
+INFO 2021-05-18 12:55:53,722 - Attempt execute command: atom
+INFO 2021-05-18 12:57:33,234 - Initialize bot.
+INFO 2021-05-18 12:57:33,234 - Load config.
+INFO 2021-05-18 12:57:33,235 - Load user.
+INFO 2021-05-18 12:57:33,235 - Set command aliases.
+INFO 2021-05-18 12:57:33,235 - Connect to IRC network.
+INFO 2021-05-18 12:57:52,896 - Format raw IRC message into parsed message.
+INFO 2021-05-18 12:57:52,896 - Attempt execute command: atom
+INFO 2021-05-18 12:59:26,383 - Initialize bot.
+INFO 2021-05-18 12:59:26,384 - Load config.
+INFO 2021-05-18 12:59:26,384 - Load user.
+INFO 2021-05-18 12:59:26,384 - Set command aliases.
+INFO 2021-05-18 12:59:26,384 - Connect to IRC network.
+INFO 2021-05-18 12:59:44,821 - Format raw IRC message into parsed message.
+INFO 2021-05-18 12:59:44,821 - Attempt execute command: atom
+INFO 2021-05-18 13:02:19,101 - Initialize bot.
+INFO 2021-05-18 13:02:19,101 - Load config.
+INFO 2021-05-18 13:02:19,101 - Load user.
+INFO 2021-05-18 13:02:19,101 - Set command aliases.
+INFO 2021-05-18 13:02:19,101 - Connect to IRC network.
+INFO 2021-05-18 13:02:39,587 - Format raw IRC message into parsed message.
+INFO 2021-05-18 13:02:39,587 - Attempt execute command: atom
+INFO 2021-05-18 13:04:53,923 - Initialize bot.
+INFO 2021-05-18 13:04:53,923 - Load config.
+INFO 2021-05-18 13:04:53,923 - Load user.
+INFO 2021-05-18 13:04:53,923 - Set command aliases.
+INFO 2021-05-18 13:04:53,923 - Connect to IRC network.
+INFO 2021-05-18 13:05:10,746 - Format raw IRC message into parsed message.
+INFO 2021-05-18 13:05:10,746 - Attempt execute command: atom
+INFO 2021-05-18 13:08:14,740 - Initialize bot.
+INFO 2021-05-18 13:08:14,740 - Load config.
+INFO 2021-05-18 13:08:14,740 - Load user.
+INFO 2021-05-18 13:08:14,740 - Set command aliases.
+INFO 2021-05-18 13:08:14,740 - Connect to IRC network.
+INFO 2021-05-18 13:08:32,580 - Format raw IRC message into parsed message.
+INFO 2021-05-18 13:08:32,580 - Attempt execute command: atom
+INFO 2021-05-18 13:09:54,647 - Initialize bot.
+INFO 2021-05-18 13:09:54,647 - Load config.
+INFO 2021-05-18 13:09:54,647 - Load user.
+INFO 2021-05-18 13:09:54,647 - Set command aliases.
+INFO 2021-05-18 13:09:54,647 - Connect to IRC network.
+INFO 2021-05-18 13:10:10,240 - Format raw IRC message into parsed message.
+INFO 2021-05-18 13:10:10,240 - Attempt execute command: atom
+INFO 2021-05-18 13:11:35,328 - Initialize bot.
+INFO 2021-05-18 13:11:35,328 - Load config.
+INFO 2021-05-18 13:11:35,328 - Load user.
+INFO 2021-05-18 13:11:35,328 - Set command aliases.
+INFO 2021-05-18 13:11:35,328 - Connect to IRC network.
+INFO 2021-05-18 13:11:51,352 - Format raw IRC message into parsed message.
+INFO 2021-05-18 13:11:51,352 - Attempt execute command: atom
+INFO 2021-05-18 13:14:41,676 - Initialize bot.
+INFO 2021-05-18 13:14:41,676 - Load config.
+INFO 2021-05-18 13:14:41,676 - Load user.
+INFO 2021-05-18 13:14:41,676 - Set command aliases.
+INFO 2021-05-18 13:14:41,676 - Connect to IRC network.
+INFO 2021-05-18 13:15:02,557 - Format raw IRC message into parsed message.
+INFO 2021-05-18 13:15:02,557 - Attempt execute command: atom
+INFO 2021-05-18 13:16:15,432 - Initialize bot.
+INFO 2021-05-18 13:16:15,432 - Load config.
+INFO 2021-05-18 13:16:15,432 - Load user.
+INFO 2021-05-18 13:16:15,432 - Set command aliases.
+INFO 2021-05-18 13:16:15,432 - Connect to IRC network.
+INFO 2021-05-18 13:16:35,436 - Format raw IRC message into parsed message.
+INFO 2021-05-18 13:16:35,437 - Attempt execute command: atom
+INFO 2021-05-18 13:20:25,468 - Initialize bot.
+INFO 2021-05-18 13:20:25,468 - Load config.
+INFO 2021-05-18 13:20:25,468 - Load user.
+INFO 2021-05-18 13:20:25,468 - Set command aliases.
+INFO 2021-05-18 13:20:25,468 - Connect to IRC network.
+INFO 2021-05-18 13:20:43,784 - Format raw IRC message into parsed message.
+INFO 2021-05-18 13:20:43,784 - Attempt execute command: atom
+INFO 2021-05-18 13:22:07,577 - Initialize bot.
+INFO 2021-05-18 13:22:07,577 - Load config.
+INFO 2021-05-18 13:22:07,577 - Load user.
+INFO 2021-05-18 13:22:07,577 - Set command aliases.
+INFO 2021-05-18 13:22:07,577 - Connect to IRC network.
+INFO 2021-05-18 13:22:30,381 - Format raw IRC message into parsed message.
+INFO 2021-05-18 13:22:30,381 - Attempt execute command: atom
+INFO 2021-05-18 13:25:11,122 - Initialize bot.
+INFO 2021-05-18 13:25:11,122 - Load config.
+INFO 2021-05-18 13:25:11,122 - Load user.
+INFO 2021-05-18 13:25:11,122 - Set command aliases.
+INFO 2021-05-18 13:25:11,122 - Connect to IRC network.
+INFO 2021-05-18 13:25:28,550 - Format raw IRC message into parsed message.
+INFO 2021-05-18 13:25:28,550 - Attempt execute command: atom
+INFO 2021-05-18 13:27:38,301 - Initialize bot.
+INFO 2021-05-18 13:27:38,301 - Load config.
+INFO 2021-05-18 13:27:38,301 - Load user.
+INFO 2021-05-18 13:27:38,301 - Set command aliases.
+INFO 2021-05-18 13:27:38,301 - Connect to IRC network.
+INFO 2021-05-18 13:27:55,850 - Format raw IRC message into parsed message.
+INFO 2021-05-18 13:27:55,850 - Attempt execute command: atom
+INFO 2021-05-18 13:29:05,346 - Initialize bot.
+INFO 2021-05-18 13:29:05,346 - Load config.
+INFO 2021-05-18 13:29:05,346 - Load user.
+INFO 2021-05-18 13:29:05,346 - Set command aliases.
+INFO 2021-05-18 13:29:05,346 - Connect to IRC network.
+INFO 2021-05-18 13:29:23,074 - Format raw IRC message into parsed message.
+INFO 2021-05-18 13:29:23,074 - Attempt execute command: atom
+INFO 2021-05-18 13:30:46,518 - Initialize bot.
+INFO 2021-05-18 13:30:46,518 - Load config.
+INFO 2021-05-18 13:30:46,518 - Load user.
+INFO 2021-05-18 13:30:46,518 - Set command aliases.
+INFO 2021-05-18 13:30:46,518 - Connect to IRC network.
+INFO 2021-05-18 13:31:05,948 - Format raw IRC message into parsed message.
+INFO 2021-05-18 13:31:05,948 - Attempt execute command: atom
+INFO 2021-05-18 13:34:48,132 - Initialize bot.
+INFO 2021-05-18 13:34:48,132 - Load config.
+INFO 2021-05-18 13:34:48,132 - Load user.
+INFO 2021-05-18 13:34:48,132 - Set command aliases.
+INFO 2021-05-18 13:34:48,132 - Connect to IRC network.
+INFO 2021-05-18 13:35:02,489 - Format raw IRC message into parsed message.
+INFO 2021-05-18 13:35:02,490 - Attempt execute command: atom
+INFO 2021-05-18 13:36:29,150 - Initialize bot.
+INFO 2021-05-18 13:36:29,150 - Load config.
+INFO 2021-05-18 13:36:29,150 - Load user.
+INFO 2021-05-18 13:36:29,150 - Set command aliases.
+INFO 2021-05-18 13:36:29,150 - Connect to IRC network.
+INFO 2021-05-18 13:36:48,055 - Format raw IRC message into parsed message.
+INFO 2021-05-18 13:36:48,055 - Attempt execute command: atom
+INFO 2021-05-18 13:38:03,303 - Initialize bot.
+INFO 2021-05-18 13:38:03,304 - Load config.
+INFO 2021-05-18 13:38:03,304 - Load user.
+INFO 2021-05-18 13:38:03,304 - Set command aliases.
+INFO 2021-05-18 13:38:03,304 - Connect to IRC network.
+INFO 2021-05-18 13:38:22,707 - Format raw IRC message into parsed message.
+INFO 2021-05-18 13:38:22,707 - Attempt execute command: atom
+INFO 2021-05-18 13:43:28,251 - Initialize bot.
+INFO 2021-05-18 13:43:28,251 - Load config.
+INFO 2021-05-18 13:43:28,251 - Load user.
+INFO 2021-05-18 13:43:28,251 - Set command aliases.
+INFO 2021-05-18 13:43:28,251 - Connect to IRC network.
+INFO 2021-05-18 13:43:42,755 - Format raw IRC message into parsed message.
+INFO 2021-05-18 13:43:42,756 - Attempt execute command: atom
+INFO 2021-05-18 13:45:06,211 - Initialize bot.
+INFO 2021-05-18 13:45:06,211 - Load config.
+INFO 2021-05-18 13:45:06,211 - Load user.
+INFO 2021-05-18 13:45:06,211 - Set command aliases.
+INFO 2021-05-18 13:45:06,211 - Connect to IRC network.
+INFO 2021-05-18 13:45:24,018 - Format raw IRC message into parsed message.
+INFO 2021-05-18 13:45:24,019 - Attempt execute command: atom
+INFO 2021-05-18 13:47:28,878 - Initialize bot.
+INFO 2021-05-18 13:47:28,878 - Load config.
+INFO 2021-05-18 13:47:28,878 - Load user.
+INFO 2021-05-18 13:47:28,878 - Set command aliases.
+INFO 2021-05-18 13:47:28,878 - Connect to IRC network.
+INFO 2021-05-18 13:47:48,143 - Format raw IRC message into parsed message.
+INFO 2021-05-18 13:47:48,143 - Attempt execute command: atom
+INFO 2021-05-18 13:48:52,153 - Initialize bot.
+INFO 2021-05-18 13:48:52,153 - Load config.
+INFO 2021-05-18 13:48:52,153 - Load user.
+INFO 2021-05-18 13:48:52,153 - Set command aliases.
+INFO 2021-05-18 13:48:52,153 - Connect to IRC network.
+INFO 2021-05-18 13:49:07,762 - Format raw IRC message into parsed message.
+INFO 2021-05-18 13:49:07,763 - Attempt execute command: atom
+INFO 2021-05-18 13:50:43,463 - Initialize bot.
+INFO 2021-05-18 13:50:43,463 - Load config.
+INFO 2021-05-18 13:50:43,463 - Load user.
+INFO 2021-05-18 13:50:43,463 - Set command aliases.
+INFO 2021-05-18 13:50:43,463 - Connect to IRC network.
+INFO 2021-05-18 13:51:03,993 - Format raw IRC message into parsed message.
+INFO 2021-05-18 13:51:03,993 - Attempt execute command: atom
+INFO 2021-05-18 13:52:52,297 - Initialize bot.
+INFO 2021-05-18 13:52:52,297 - Load config.
+INFO 2021-05-18 13:52:52,297 - Load user.
+INFO 2021-05-18 13:52:52,297 - Set command aliases.
+INFO 2021-05-18 13:52:52,297 - Connect to IRC network.
+INFO 2021-05-18 13:53:09,194 - Format raw IRC message into parsed message.
+INFO 2021-05-18 13:53:09,194 - Attempt execute command: atom
+INFO 2021-05-18 13:58:24,787 - Initialize bot.
+INFO 2021-05-18 13:58:24,787 - Load config.
+INFO 2021-05-18 13:58:24,787 - Load user.
+INFO 2021-05-18 13:58:24,787 - Set command aliases.
+INFO 2021-05-18 13:58:24,787 - Connect to IRC network.
+INFO 2021-05-18 13:58:44,227 - Format raw IRC message into parsed message.
+INFO 2021-05-18 13:58:44,227 - Attempt execute command: atom
+INFO 2021-05-18 13:59:45,983 - Initialize bot.
+INFO 2021-05-18 13:59:45,983 - Load config.
+INFO 2021-05-18 13:59:45,983 - Load user.
+INFO 2021-05-18 13:59:45,983 - Set command aliases.
+INFO 2021-05-18 13:59:45,983 - Connect to IRC network.
+INFO 2021-05-18 14:00:11,265 - Format raw IRC message into parsed message.
+INFO 2021-05-18 14:00:11,266 - Attempt execute command: atom
+INFO 2021-05-18 14:01:45,062 - Initialize bot.
+INFO 2021-05-18 14:01:45,062 - Load config.
+INFO 2021-05-18 14:01:45,063 - Load user.
+INFO 2021-05-18 14:01:45,063 - Set command aliases.
+INFO 2021-05-18 14:01:45,063 - Connect to IRC network.
+INFO 2021-05-18 14:02:04,359 - Format raw IRC message into parsed message.
+INFO 2021-05-18 14:02:04,359 - Attempt execute command: atom
+INFO 2021-05-18 14:04:33,311 - Initialize bot.
+INFO 2021-05-18 14:04:33,311 - Load config.
+INFO 2021-05-18 14:04:33,311 - Load user.
+INFO 2021-05-18 14:04:33,311 - Set command aliases.
+INFO 2021-05-18 14:04:33,311 - Connect to IRC network.
+INFO 2021-05-18 14:04:48,441 - Format raw IRC message into parsed message.
+INFO 2021-05-18 14:04:48,441 - Attempt execute command: atom
+INFO 2021-05-18 14:06:14,770 - Initialize bot.
+INFO 2021-05-18 14:06:14,770 - Load config.
+INFO 2021-05-18 14:06:14,770 - Load user.
+INFO 2021-05-18 14:06:14,770 - Set command aliases.
+INFO 2021-05-18 14:06:14,771 - Connect to IRC network.
+INFO 2021-05-18 14:06:34,725 - Format raw IRC message into parsed message.
+INFO 2021-05-18 14:06:34,725 - Attempt execute command: atom
+INFO 2021-05-18 14:10:16,020 - Initialize bot.
+INFO 2021-05-18 14:10:16,020 - Load config.
+INFO 2021-05-18 14:10:16,020 - Load user.
+INFO 2021-05-18 14:10:16,020 - Set command aliases.
+INFO 2021-05-18 14:10:16,020 - Connect to IRC network.
+INFO 2021-05-18 14:10:34,387 - Format raw IRC message into parsed message.
+INFO 2021-05-18 14:10:34,388 - Attempt execute command: atom
+INFO 2021-05-18 14:13:00,474 - Initialize bot.
+INFO 2021-05-18 14:13:00,474 - Load config.
+INFO 2021-05-18 14:13:00,474 - Load user.
+INFO 2021-05-18 14:13:00,474 - Set command aliases.
+INFO 2021-05-18 14:13:00,475 - Connect to IRC network.
+INFO 2021-05-18 14:13:22,847 - Format raw IRC message into parsed message.
+INFO 2021-05-18 14:13:22,861 - Attempt execute command: atom
+INFO 2021-05-18 14:16:21,393 - Initialize bot.
+INFO 2021-05-18 14:16:21,393 - Load config.
+INFO 2021-05-18 14:16:21,394 - Load user.
+INFO 2021-05-18 14:16:21,394 - Set command aliases.
+INFO 2021-05-18 14:16:21,394 - Connect to IRC network.
+INFO 2021-05-18 14:16:38,040 - Format raw IRC message into parsed message.
+INFO 2021-05-18 14:16:38,045 - Attempt execute command: atom
+INFO 2021-05-18 14:18:03,971 - Initialize bot.
+INFO 2021-05-18 14:18:03,971 - Load config.
+INFO 2021-05-18 14:18:03,971 - Load user.
+INFO 2021-05-18 14:18:03,971 - Set command aliases.
+INFO 2021-05-18 14:18:03,971 - Connect to IRC network.
+INFO 2021-05-18 14:18:26,426 - Format raw IRC message into parsed message.
+INFO 2021-05-18 14:18:26,426 - Attempt execute command: atom
+INFO 2021-05-18 14:20:44,508 - Initialize bot.
+INFO 2021-05-18 14:20:44,508 - Load config.
+INFO 2021-05-18 14:20:44,508 - Load user.
+INFO 2021-05-18 14:20:44,508 - Set command aliases.
+INFO 2021-05-18 14:20:44,508 - Connect to IRC network.
+INFO 2021-05-18 14:21:04,905 - Format raw IRC message into parsed message.
+INFO 2021-05-18 14:21:04,905 - Attempt execute command: atom
+INFO 2021-05-18 14:23:57,426 - Initialize bot.
+INFO 2021-05-18 14:23:57,426 - Load config.
+INFO 2021-05-18 14:23:57,426 - Load user.
+INFO 2021-05-18 14:23:57,426 - Set command aliases.
+INFO 2021-05-18 14:23:57,427 - Connect to IRC network.
+INFO 2021-05-18 14:24:12,549 - Format raw IRC message into parsed message.
+INFO 2021-05-18 14:24:12,549 - Attempt execute command: atom
+INFO 2021-05-18 14:25:51,965 - Initialize bot.
+INFO 2021-05-18 14:25:51,965 - Load config.
+INFO 2021-05-18 14:25:51,966 - Load user.
+INFO 2021-05-18 14:25:51,966 - Set command aliases.
+INFO 2021-05-18 14:25:51,966 - Connect to IRC network.
+INFO 2021-05-18 14:26:15,268 - Format raw IRC message into parsed message.
+INFO 2021-05-18 14:26:15,268 - Attempt execute command: atom
+INFO 2021-05-18 14:27:02,625 - Initialize bot.
+INFO 2021-05-18 14:27:02,626 - Load config.
+INFO 2021-05-18 14:27:02,626 - Load user.
+INFO 2021-05-18 14:27:02,626 - Set command aliases.
+INFO 2021-05-18 14:27:02,626 - Connect to IRC network.
+INFO 2021-05-18 14:27:20,856 - Format raw IRC message into parsed message.
+INFO 2021-05-18 14:27:20,856 - Attempt execute command: atom
+INFO 2021-05-18 14:32:25,008 - Initialize bot.
+INFO 2021-05-18 14:32:25,008 - Load config.
+INFO 2021-05-18 14:32:25,009 - Load user.
+INFO 2021-05-18 14:32:25,009 - Set command aliases.
+INFO 2021-05-18 14:32:25,009 - Connect to IRC network.
+INFO 2021-05-18 14:32:44,992 - Format raw IRC message into parsed message.
+INFO 2021-05-18 14:32:44,993 - Attempt execute command: atom
+INFO 2021-05-18 14:34:14,502 - Initialize bot.
+INFO 2021-05-18 14:34:14,502 - Load config.
+INFO 2021-05-18 14:34:14,503 - Load user.
+INFO 2021-05-18 14:34:14,503 - Set command aliases.
+INFO 2021-05-18 14:34:14,503 - Connect to IRC network.
+INFO 2021-05-18 14:34:34,945 - Format raw IRC message into parsed message.
+INFO 2021-05-18 14:34:34,945 - Attempt execute command: atom
+INFO 2021-05-18 14:37:10,530 - Initialize bot.
+INFO 2021-05-18 14:37:10,530 - Load config.
+INFO 2021-05-18 14:37:10,530 - Load user.
+INFO 2021-05-18 14:37:10,530 - Set command aliases.
+INFO 2021-05-18 14:37:10,530 - Connect to IRC network.
+INFO 2021-05-18 14:37:27,849 - Format raw IRC message into parsed message.
+INFO 2021-05-18 14:37:27,850 - Attempt execute command: atom
+INFO 2021-05-18 14:38:24,206 - Initialize bot.
+INFO 2021-05-18 14:38:24,206 - Load config.
+INFO 2021-05-18 14:38:24,206 - Load user.
+INFO 2021-05-18 14:38:24,206 - Set command aliases.
+INFO 2021-05-18 14:38:24,206 - Connect to IRC network.
+INFO 2021-05-18 14:38:41,875 - Format raw IRC message into parsed message.
+INFO 2021-05-18 14:38:41,876 - Attempt execute command: atom
+INFO 2021-05-18 14:41:08,530 - Initialize bot.
+INFO 2021-05-18 14:41:08,531 - Load config.
+INFO 2021-05-18 14:41:08,531 - Load user.
+INFO 2021-05-18 14:41:08,531 - Set command aliases.
+INFO 2021-05-18 14:41:08,531 - Connect to IRC network.
+INFO 2021-05-18 14:41:28,680 - Format raw IRC message into parsed message.
+INFO 2021-05-18 14:41:28,680 - Attempt execute command: atom
+INFO 2021-05-18 14:44:06,100 - Initialize bot.
+INFO 2021-05-18 14:44:06,100 - Load config.
+INFO 2021-05-18 14:44:06,100 - Load user.
+INFO 2021-05-18 14:44:06,100 - Set command aliases.
+INFO 2021-05-18 14:44:06,100 - Connect to IRC network.
+INFO 2021-05-18 14:44:23,130 - Format raw IRC message into parsed message.
+INFO 2021-05-18 14:44:23,130 - Attempt execute command: atom
+INFO 2021-05-18 14:45:30,762 - Initialize bot.
+INFO 2021-05-18 14:45:30,762 - Load config.
+INFO 2021-05-18 14:45:30,762 - Load user.
+INFO 2021-05-18 14:45:30,762 - Set command aliases.
+INFO 2021-05-18 14:45:30,762 - Connect to IRC network.
+INFO 2021-05-18 14:46:35,274 - Initialize bot.
+INFO 2021-05-18 14:46:35,274 - Load config.
+INFO 2021-05-18 14:46:35,274 - Load user.
+INFO 2021-05-18 14:46:35,274 - Set command aliases.
+INFO 2021-05-18 14:46:35,274 - Connect to IRC network.
+INFO 2021-05-18 14:46:51,919 - Format raw IRC message into parsed message.
+INFO 2021-05-18 14:46:51,919 - Attempt execute command: atom
+INFO 2021-05-19 13:10:56,907 - Initialize bot.
+INFO 2021-05-19 13:10:56,924 - Load config.
+INFO 2021-05-19 13:10:56,924 - Load user.
+INFO 2021-05-19 13:10:56,924 - Set command aliases.
+INFO 2021-05-19 13:10:56,924 - Connect to IRC network.
+INFO 2021-05-19 13:11:15,080 - Format raw IRC message into parsed message.
+INFO 2021-05-19 13:11:15,081 - Attempt execute command: atom
+INFO 2021-05-19 14:58:51,057 - Initialize bot.
+INFO 2021-05-19 14:58:51,057 - Load config.
+INFO 2021-05-19 14:58:51,057 - Load user.
+INFO 2021-05-19 14:58:51,057 - Set command aliases.
+INFO 2021-05-19 14:58:51,057 - Connect to IRC network.
+INFO 2021-05-19 14:59:11,841 - Format raw IRC message into parsed message.
+INFO 2021-05-19 14:59:11,841 - Attempt execute command: atom
+INFO 2021-05-21 12:09:25,318 - Initialize bot.
+INFO 2021-05-21 12:09:25,334 - Load config.
+INFO 2021-05-21 12:09:25,344 - Load user.
+INFO 2021-05-21 12:09:25,344 - Set command aliases.
+INFO 2021-05-21 12:09:25,344 - Connect to IRC network.
+INFO 2021-05-21 12:11:49,804 - Initialize bot.
+INFO 2021-05-21 12:11:49,805 - Load config.
+INFO 2021-05-21 12:11:49,805 - Load user.
+INFO 2021-05-21 12:11:49,805 - Set command aliases.
+INFO 2021-05-21 12:11:49,805 - Connect to IRC network.
+INFO 2021-05-21 12:12:14,144 - Format raw IRC message into parsed message.
+INFO 2021-05-21 12:12:14,145 - Attempt execute command: atom
+INFO 2021-05-21 12:29:32,662 - Initialize bot.
+INFO 2021-05-21 12:29:32,662 - Load config.
+INFO 2021-05-21 12:29:32,662 - Load user.
+INFO 2021-05-21 12:29:32,663 - Set command aliases.
+INFO 2021-05-21 12:29:32,663 - Connect to IRC network.
+INFO 2021-05-21 12:29:48,523 - Format raw IRC message into parsed message.
+INFO 2021-05-21 12:29:48,523 - Attempt execute command: atom
+INFO 2021-05-21 12:47:18,668 - Format raw IRC message into parsed message.
+INFO 2021-05-21 12:47:47,851 - Format raw IRC message into parsed message.
+INFO 2021-05-21 12:47:48,138 - Attempt execute command: info
+INFO 2021-05-21 12:49:12,819 - Format raw IRC message into parsed message.
+INFO 2021-05-21 12:49:12,819 - Attempt execute command: info
