@@ -1,7 +1,2 @@
-!ping - returns "pong"
-!help - returns a list of available commands
-!ytdl <url> - returns the title of a video url
-!chan <url> - returns the uploader of the video url
-!info <url> - returns the specified info template
-!rss - returns basic info about the set RSS feed
-!atom - returns basic info about the set ATOM feed
+!ytdlbot info <url> - returns the specified info template
+!ytdlbot atom - Begins RSS update timer.
