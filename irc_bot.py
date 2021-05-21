@@ -14,12 +14,8 @@ logger.info("Initialize bot.")
 
 logger.info("Load config.")
 user = loadconfig("config/global")
+connection = { "server":user["server"], "port":int(user["port"]) }
 logger.info("Load user.")
-
-connection = {
-    "server":"irc.freenode.net",
-    "port":6667
-}
 
 logger.info("Set command aliases.")
 command_aliases = {
